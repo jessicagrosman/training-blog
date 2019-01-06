@@ -45,7 +45,7 @@ The resume assistant loads as a side bar when you work on a resume.
 
 The assistant asks for your job title and the industry you work in. Then it searches LinkedIn public profiles for examples.
 
-![Top Skills Search]({{ '/assets/tools/resumedetail.png' | relative_url }})
+![Detail]({{ '/assets/tools/resumedetail.png' | relative_url }})
 
 It provides authentic examples of how people presented specific aspects of their experience, just when you need it.
 
@@ -55,7 +55,7 @@ The examples help with writer’s block and provide reassurance.
 
 The top skills are helpful to make sure you are using the right key words. 
 
-![Top Skills Search](/assets/images/topskills.png)
+![Top Skills Search](/blog/assets/images/topskills.png)
 
 #### What is the resume assistant missing?
 
