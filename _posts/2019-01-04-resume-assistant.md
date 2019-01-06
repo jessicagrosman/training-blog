@@ -3,7 +3,7 @@ title: "Resume assistant: good JIT example"
 categories: examples
 excerpt_separator: <!--more-->
 header:
-  image: "https://github.com/jessicagrosman/blog/blob/gh-pages/assets/images/jit_banner.png"
+  image: https://github.com/jessicagrosman/blog/blob/gh-pages/assets/images/jit_banner.png
 ---
 I came across the Resume Assistant in Microsoft Word and LinkedIn. I thought it was a great example of Just-in-time training. Before we get into it, I want to talk about just-in-time training--it's on my mind a lot lately. 
 
@@ -41,7 +41,7 @@ It’s difficult to summarize our working life in point form. It’s hard to get
 
 The resume assistant loads as a side bar when you work on a resume. 
 
-![Resume Assistant Screenshot](/assets/images/resumeassistant.png)
+![Resume assistant in action](https://github.com/jessicagrosman/blog/blob/gh-pages/assets/images/resumeassistant.png)
 
 The assistant asks for your job title and the industry you work in. Then it searches LinkedIn public profiles for examples.
 
