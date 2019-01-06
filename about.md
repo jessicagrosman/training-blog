@@ -10,12 +10,12 @@ permalink: /about/
 
 I am focused on making effective and memorable training about technology.
 
-At work, I create elearning modules, deliver workshops, make videos and write technical documentts.
+At work, I create elearning courses, deliver workshops, make videos and write technical documents.
 
 My blog is a place to reflect on training and test out different ideas and tools.
 
-For example, I used Jeykll and GitHub to make this site.
+For example, I am making my own images to improve my graphic design skills. 
 
-I am also making my own images to improve my graphic design skills.
+Not to mention I learned two new tools: Jeykll and GitHub pages to make this site.
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/jessicagrosman/).
