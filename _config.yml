@@ -19,9 +19,9 @@ title                    : "Trainingland Blog"
 title_separator          : "|"
 name                     : "Jessica Grosman"
 description              : "Thoughts on making training"
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "jessicagrosman/trainingland-blog" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+url                      : "https://jessicagrosman.github.io"
+baseurl                  : /blog
+repository               : "jessicagrosman/trainingland-blog"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 words_per_minute         : 200
 comments:
