@@ -45,7 +45,7 @@ The resume assistant loads as a side bar when you work on a resume.
 
 The assistant asks for your job title and the industry you work in. Then it searches LinkedIn public profiles for examples.
 
-![Detail]({{ '/blog/assets/tools/resumedetail.png' | relative_url }})
+![Resume Assistant Detail](/blog/assets/images/resumedetail.png)
 
 It provides authentic examples of how people presented specific aspects of their experience, just when you need it.
 
