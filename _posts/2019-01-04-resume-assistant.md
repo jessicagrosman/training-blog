@@ -41,11 +41,11 @@ It’s difficult to summarize our working life in point form. It’s hard to get
 
 The resume assistant loads as a side bar when you work on a resume. 
 
-<img src="/assets/images/resumeassistant.png">
+<img src="blog/assets/images/resumeassistant.png">
 
 The assistant asks for your job title and the industry you work in. Then it searches LinkedIn public profiles for examples.
 
-![Top Skills Search](/assets/images/resumedetail.png)
+![Top Skills Search](blog/assets/images/resumedetail.png)
 
 It provides authentic examples of how people presented specific aspects of their experience, just when you need it.
 
