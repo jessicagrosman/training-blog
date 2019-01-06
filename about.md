@@ -12,9 +12,9 @@ I am focused on making effective and memorable training about technology.
 
 At work, I create elearning modules, deliver workshops, make videos and write technical documentts.
 
-My blog is a place to collect my ideas about training and test out different tools.
+My blog is a place to reflect on training and test out different ideas and tools.
 
-For example, I used Jeykll, a little html and css, and a lot of Markdown to make this site.
+For example, I used Jeykll and GitHub to make this site.
 
 I am also making my own images to improve my graphic design skills.
 
