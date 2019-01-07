@@ -3,7 +3,7 @@ title: "Resume assistant: good JIT example"
 categories: examples
 excerpt_separator: <!--more-->
 header:
-  image: /blog/assets/images/jit_banner.png
+  image: assets/images/jit_banner.png
 ---
 I came across the Resume Assistant in Microsoft Word and LinkedIn. I thought it was a great example of Just-in-time training. Before we get into it, I want to talk about just-in-time training--it's on my mind a lot lately. 
 
