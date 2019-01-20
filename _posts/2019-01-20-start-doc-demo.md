@@ -10,7 +10,7 @@ Two mistakes about how to start software documentation and demos, dissected.
 
 <!--more-->
 
-##Documentation
+## Documentation
 
 I was checking a knowledgebase article this week. I skimmed the instructions. It all seemed straightforward, I thought. The instructions were detailed, step-by-step, with screenshots.
 
@@ -23,10 +23,7 @@ I spent the next 5 to 10 minutes trying to click the write button to open the di
 #### Take-away 
 When we write documentation we are often trying to help people locate an option. Make sure the entry point is clearly sign-posted.
 
-###How the idea of the start can be used in training
-Scaffolding is when the trainer helps the learner achieve more than they could do alone by providing support. For online courses and documentation, the right amount of scaffolding might be the first step: showing people where to start.
-
-##Demos
+## Demos
 I was giving a demo of a web application to an end-user who is not particularly tech savvy. This type of demo is outside my usual target audience. When I changed my presentation style I was careful to remove the tech jargon and come up with analogies to link to previous knowledge. I had paid siginification attention to flow and potential cognitive overload. 
 
 But we got stalled before we even got going.
@@ -43,3 +40,6 @@ As we talk to people with fewer skills or less experience make sure to state the
 It's a training landscape where we trainers are guides familiar with the terrain. But if people have never seen this type of software before we need to treat it like a hotel we just checked into. The learners want to get a lay of the land first. They want to orientate themselves and explicitly name different aspects of the environment.
 
 *Oh there's the pool. The restaurant bar is down that hallway.*
+
+### How the idea of the start can be used in training
+Scaffolding is when the trainer helps the learner achieve more than they could do alone by providing support. For online courses and documentation, the right amount of scaffolding might be the first step: showing people where to start.
