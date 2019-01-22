@@ -47,6 +47,7 @@ plugins:
   - jekyll-feed
   - jekyll-include-cache
   - jekyll-remote-theme
+  - jekyll-sitemap
 
 defaults:
   # _posts
