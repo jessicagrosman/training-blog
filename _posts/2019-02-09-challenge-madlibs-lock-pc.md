@@ -39,7 +39,7 @@ In the second slide it's revealed they left their computer unlocked and the word
 
 There is also some info about keyboard shortcuts (i.e. a faster way to lock their screen). I don't think the actual issue is people don't have the right skills or information, that's why this is only a link for people who want it.
 
-![Know your keyboard shortcuts: Win+L or CTRL+CMD+Q](/blog/assets/images/lockscreen_shortcuts.PNG)
+![Know your keyboard shortcuts: Win+L or CTRL+CMD+Q](/blog/assets/images/screenlock_shortcuts.PNG)
 
 If I took this further I would find some info about what type of bad things have actually happened from unlocked computers and find a way for people to share their creativity with others, maybe through Slack or other corporate instant messaging.
 
