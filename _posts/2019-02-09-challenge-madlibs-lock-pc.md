@@ -35,7 +35,7 @@ The first slide invites the learner to fill in the blanks and learn about some o
 
 In the second slide it's revealed they left their computer unlocked and the words they just filled in describe their new computer wallpaper.
 
-![The second slide has the punch (your colleagues are probably more creative) and the reminder](/blog/assets/images/lockscreen1.PNG)
+![The second slide has the punch (your colleagues are probably more creative) and the reminder](/blog/assets/images/lockscreen2.PNG)
 
 There is also some info about keyboard shortcuts (i.e. a faster way to lock their screen). I don't think the actual issue is people don't have the right skills or information, that's why this is only a link for people who want it.
 
