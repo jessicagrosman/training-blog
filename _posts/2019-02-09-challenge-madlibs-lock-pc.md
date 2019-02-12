@@ -43,5 +43,5 @@ There is also some info about keyboard shortcuts (i.e. a faster way to lock thei
 
 If I took this further I would find some info about what type of bad things have actually happened from unlocked computers and find a way for people to share their creativity with others, maybe through Slack or other corporate instant messaging.
 
-### See the whole project [here](http://peterkirby.ca/learn/lock/story_html5.html).
+### See the whole project [here](http://jessicagrosman.ca/lock/story_html5.html).
 
