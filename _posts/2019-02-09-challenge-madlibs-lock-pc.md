@@ -43,5 +43,29 @@ There is also some info about keyboard shortcuts (i.e. a faster way to lock thei
 
 If I took this further I would find some info about what type of bad things have actually happened from unlocked computers and find a way for people to share their creativity with others, maybe through Slack or other corporate instant messaging.
 
+####EDIT (14/02/2018): 
+I tested the game out on a couple people. I was reminded that not everyone fills in forms entirely! So the person who skipped fields was confronted with a confusing story with a bunch of blanks.
+
+I originally thought I would make the text fields required with some conditionals. Then I thought *locked down Submit buttons* and *All fields are required pop-ups* are demotivating. That wasn't the point of this exercise--it's supposed to be fun! 
+
+Instead I decided that if people left input blank I would supply the answers. This way they would see the point and hopefully go back and try themselves. Plus the catch (your colleagues are probably more creative) is amply true in this case. 
+
+It took a little bit of experimenting to be able to supply my own answers if someone didn't fill out the input fields. The way I got it to work was to a trigger on each data entry field. This trigger adjusts the variable to my word choice provided the person left the field blank.
+
+#### How to set up the trigger
+
+**Action**: **adjust variable to**
+
+**Value**: the word you suggest
+
+**Condition: if <%variable%> == to [blank].**
+
+![An example of the trigger I made to fill in blanks for learners](/blog/assets/images/trigger_changevariable.PNG)
+
+I chose to make the change when the person clicked **Submit**. So I had 7 triggers associated with the **Submit** button: 6 triggers to fill in input left blank and one that jumps to the next slide. It is critical to put the 6 triggers before the trigger that jumps to the next slide. Other wise it won't work.
+
+
 ### See the whole project [here](http://jessicagrosman.ca/lock/story_html5.html).
+
+
 
