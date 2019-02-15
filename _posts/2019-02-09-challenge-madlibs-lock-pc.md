@@ -33,17 +33,17 @@ The first slide invites the learner to fill in the blanks and learn about some o
 ![The First Slide prompts for words and hopefully piques curiosity](/blog/assets/images/lockscreen1.PNG)
 
 
-In the second slide it's revealed they left their computer unlocked and the words they just filled in describe their new computer wallpaper.
+In the second slide it's revealed the person left their computer unlocked and the words they just filled in describe their new computer wallpaper.
 
 ![The second slide has the punch (your colleagues are probably more creative) and the reminder](/blog/assets/images/lockscreen2.PNG)
 
-There is also some info about keyboard shortcuts (i.e. a faster way to lock their screen). I don't think the actual issue is people don't have the right skills or information, that's why this is only a link for people who want it.
+There is also some info about keyboard shortcuts (i.e. a faster way to lock their screen). I didn't start with the information because I don't think the actual issue is a knowledge or skills gap. Instead I wanted to focus on creating interest through creativity and humour. It's a way to help people remember what they are supposed to do.
 
 ![Know your keyboard shortcuts: Win+L or CTRL+CMD+Q](/blog/assets/images/screenlock_shortcuts.PNG)
 
 If I took this further I would find some info about what type of bad things have actually happened from unlocked computers and find a way for people to share their creativity with others, maybe through Slack or other corporate instant messaging.
 
-####EDIT (14/02/2018): 
+#### EDIT (14/02/2018): 
 I tested the game out on a couple people. I was reminded that not everyone fills in forms entirely! So the person who skipped fields was confronted with a confusing story with a bunch of blanks.
 
 I originally thought I would make the text fields required with some conditionals. Then I thought *locked down Submit buttons* and *All fields are required pop-ups* are demotivating. That wasn't the point of this exercise--it's supposed to be fun! 
