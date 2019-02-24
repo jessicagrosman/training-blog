@@ -15,10 +15,10 @@
 # in the templates via {{ site.myvariable }}.
 # Site Settings
 locale                   : "en-US"
-title                    : "Trainingland Blog"
+title                    : "Atelier LX"
 title_separator          : "|"
 name                     : "Jessica Grosman"
-description              : "Thoughts on making training"
+description              : "Thought experiments and prototypes"
 url                      : "https://jessicagrosman.github.io"
 baseurl                  : /blog
 repository               : "jessicagrosman/blog"
@@ -32,7 +32,7 @@ comments:
 author:
   name             : "Jessica Grosman"
   avatar           : "/assets/images/bio-photo.jpg"
-  bio              : "I make training about tech."
+  bio              : "I make training about tech. This space is for thought experiments and prototypes."
   location         : "Montreal, Canada"
 # Outputting
 permalink: /:categories/:title/
