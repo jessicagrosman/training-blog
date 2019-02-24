@@ -6,7 +6,7 @@ excerpt_separator: <!--more-->
 
 I made a learning activity about choosing strong, complex passwords at work. It's part of an **E-learning Heroes' challenge** about web objects. I used the web objects to include activities that give feedback about password choices. I had a bit of trouble technically but learned new things about iframes. Read on to see my process I used and a bit of troubleshooting.
 
-Or check out the project: [Get control over your passwords](http://jessicagrosman.ca/passwords101/story_html5.html target="_blank").
+Or check out the project: [Get control over your passwords](http://jessicagrosman.ca/passwords101/story_html5.html).
 <!--more-->
 
 ## Context
