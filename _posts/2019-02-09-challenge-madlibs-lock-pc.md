@@ -4,9 +4,11 @@ categories: storyline
 ---
 
 ### Madlibs Challenge
-Over at E-Learning Heroes they had [a challenge to use Madlibs](https://community.articulate.com/articles/using-mad-libs-to-create-elearning-word-games?page=1) in an elearning activity. With the original Madlibs, players choose different word types (e.g. adjective, animal) and insert them into sentences without knowing the larger context.
+Over at E-Learning Heroes they had [a challenge to use Madlibs](https://community.articulate.com/articles/using-mad-libs-to-create-elearning-word-games?page=1) in an elearning activity. I immediately had a flash when I saw the challenge. I could use it to make a funny little activity about leaving your computer unlocked at work. 
 
-I immediately had a flash when I saw the challenge. I could use it to make a funny little activity about leaving your computer unlocked at work. 
+### See the whole project [here](http://jessicagrosman.ca/lock/story_html5.html).
+
+With the original Madlibs, players choose different word types (e.g. adjective, animal) and insert them into sentences without knowing the larger context. Mine would make an amusing (I hope!) story about what happens when you leave your computer unlocked.
 
 ### Security 101
 Locking your screen when you step away from your desk is cybersecurity 101. It might be a low hanging fruit in the security world but it turns up again and again at training.

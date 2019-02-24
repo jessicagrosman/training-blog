@@ -1,10 +1,15 @@
 ---
 title: "Cyber Security Awareness Training: Passwords"
 categories: storyline
+excerpt_separator: <!--more-->
 ---
 
-## Context
+I made learning activity about choosing strong, complex passwords at work. It's part of an E-learning Heroes' challenge about web objects. I used the web objects to include activities that give feedback about password choices. I had a bit of trouble but learned new things. Read on to learn about the process I used and what I learned.
 
+Or check out the project: [Get control over your passwords](http://jessicagrosman.ca/passwords101/story_html5.html).
+<!--more-->
+
+## Context
 The reality is bad passwords let bad people do bad things: steal your identity, break into company's infrastructure, etc.
 
 Cyber Security Awareness Training still covers passwords because people still choose bad passwords.
@@ -17,13 +22,13 @@ Password training is difficult because we are talking about preventative measure
 
 Most training gives information about password strength and complexity: guidelines and things to avoid. But information alone rarely changes behaviour.
 
-I have thought that interactions focused on increasing feedback could help change password choosing habits. 
+I have thought that interactions focused on increasing feedback could help change password choosing behaviour and habits. 
 
 I had two idea to include: 
 1. Password strength analyzer 
 2. Pwned Password. 
 
-To really solidify good password making and using habits, I think we would need to look at how to roll out password managers and help people book time to set them up.
+To really solidify good password making habits, I think we would need to look at how to roll out password managers and help people book time to set them up.
 
 *(If only they would actually listen to us about password managers! They really do make using the internet less frustrating!)*
 
@@ -49,7 +54,7 @@ A consideration with this type of activity is how safe it is to send your passwo
 
 ## Planning
 
-With the above context swirling in my head for some time, I started the text-based story boards to plan the content. I like storyboards because it makes the actual development quicker. Check out [the storyboard pdf] (/blog/assets/pdf/password_storyboard.PDF).
+With the above context swirling in my head for some time, I started the text-based story boards to plan the content. I like storyboards because it makes the actual development quicker. Check out [the storyboard pdf](/blog/assets/pdf/password_storyboard.PDF).
 
 I also researched tabbed outlines and decided to go with one similar to [a Storyline Demo](https://www.youtube.com/watch?v=dI0Yy1d1Fb8). 
 
