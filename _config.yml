@@ -32,7 +32,7 @@ comments:
 author:
   name             : "Jessica Grosman"
   avatar           : "/assets/images/bio-photo.jpg"
-  bio              : "I make training about tech, mostly. Also super interested in making training with technology."
+  bio              : "I make training about software and IT, mostly. Also super interested in making training with technology."
   location         : "Montreal, Canada"
 # Outputting
 permalink: /:categories/:title/

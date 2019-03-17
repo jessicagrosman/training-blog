@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2019-01-06T19:49:27+00:00</updated><id>/feed.xml</id><title type="html">Trainingland Blog</title><subtitle>Thoughts on making training</subtitle><author><name>Jessica Grosman</name></author><entry><title type="html">Resume assistant: good JIT example</title><link href="/examples/resume-assistant/" rel="alternate" type="text/html" title="Resume assistant: good JIT example" /><published>2019-01-04T00:00:00+00:00</published><updated>2019-01-04T00:00:00+00:00</updated><id>/examples/resume-assistant</id><content type="html" xml:base="/examples/resume-assistant/">&lt;p&gt;I came across the Resume Assistant in Microsoft Word and LinkedIn. I thought it was a great example of Just-in-time training. Before we get into it, I want to talk about just-in-time training–it’s on my mind a lot lately.&lt;/p&gt;
+
+&lt;p&gt;Oh and don’t worry the assistant is nothing like &lt;a href=&quot;https://www.artsy.net/article/artsy-editorial-life-death-microsoft-clippy-paper-clip-loved-hate&quot;&gt;Clippy&lt;/a&gt;.
+&lt;!--more--&gt;&lt;/p&gt;
+&lt;h3 id=&quot;the-attention-problem&quot;&gt;The Attention Problem&lt;/h3&gt;
+&lt;p&gt;Yesterday, a colleague proudly told me he had completed the last training I had created.&lt;/p&gt;
+
+&lt;p&gt;“How was it?” I asked.&lt;/p&gt;
+
+&lt;p&gt;“Fine. The hard thing is switching gears from work to training.”&lt;/p&gt;
+
+&lt;p&gt;This idea that training takes time away from the real work is a real pain point for me.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;We have a lot of things competing for our attention. Getting focused is something we all seem to be struggling with.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;I think we need to take that into account when we make training.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;just-in-time-training&quot;&gt;Just in time training&lt;/h3&gt;
+&lt;p&gt;So let’s talk about just in time training (JIT).&lt;/p&gt;
+
+&lt;p&gt;JIT is focused training that helps people with a specific task, crucially it’s delivered at the moment the person needs it.&lt;/p&gt;
+
+&lt;p&gt;This type of training is growing in popularity as technology and AI allow adaptable, on-demand training content.&lt;/p&gt;
+
+&lt;p&gt;JIT is great for subjects marked by quick change, when the creation cycle for traditional learning materials would struggle to stay up-to-date.&lt;/p&gt;
+
+&lt;p&gt;In my experience a lot of people who work with technology are already adept at this type of learning. They regularly use the internet–especially forums–to find solutions. The most experienced can quickly find and scan sources to decide which is relevant, the newest waste a lot of time perusing. Of course there are drawbacks. Some people consult the wrong information. Some people don’t search and bug their colleagues instead.&lt;/p&gt;
+
+&lt;h3 id=&quot;linkedin-resume-assistant&quot;&gt;LinkedIn Resume Assistant&lt;/h3&gt;
+
+&lt;p&gt;I thoroughly enjoy the resume assistant by Microsoft and LinkedIn.&lt;/p&gt;
+
+&lt;p&gt;It’s difficult to summarize our working life in point form. It’s hard to get over the discomfort of tooting my own horn. I still rely on a list of action verbs I got in university.&lt;/p&gt;
+
+&lt;p&gt;The resume assistant loads as a side bar when you work on a resume.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/resumeassistant.png&quot; alt=&quot;Resume Assistant Screenshot&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The assistant asks for your job title and the industry you work in. Then it searches LinkedIn public profiles for examples.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/resumedetail.png&quot; alt=&quot;Top Skills Search&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;It provides authentic examples of how people presented specific aspects of their experience, just when you need it.&lt;/p&gt;
+
+&lt;p&gt;The sidebar also includes broader information: top skills for the specified role, generic resume writing tips articles from LinkedIn articles; suggested jobs; a let recruiters know you’re open (a link to LinkedIn), as well as some places to provide feedback, presumably to hone the algorithm.&lt;/p&gt;
+
+&lt;p&gt;The examples help with writer’s block and provide reassurance.&lt;/p&gt;
+
+&lt;p&gt;The top skills are helpful to make sure you are using the right key words.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/topskills.png&quot; alt=&quot;Top Skills Search&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;what-is-the-resume-assistant-missing&quot;&gt;What is the resume assistant missing?&lt;/h4&gt;
+
+&lt;p&gt;The examples I found were relevant and interesting, but lacked  context or feedback.&lt;/p&gt;
+
+&lt;p&gt;Are these examples from successful people?&lt;/p&gt;
+
+&lt;p&gt;What has LinkedIn learned about skills and successful job applicants that could be included in the side menu?&lt;/p&gt;
+
+&lt;p&gt;Do the top skills overlap with keywords that resume scanners look for?&lt;/p&gt;
+
+&lt;h4 id=&quot;another-place-i-would-love-to-see-this-tool&quot;&gt;Another place I would love to see this tool:&lt;/h4&gt;
+&lt;p&gt;People are often stumped by annual performance reviews. I would love to see what other people write, so I could write my own better. Of course, the logistics and ethics of this idea are not as obvious as the resume example.&lt;/p&gt;</content><author><name>Jessica Grosman</name></author><summary type="html">I came across the Resume Assistant in Microsoft Word and LinkedIn. I thought it was a great example of Just-in-time training. Before we get into it, I want to talk about just-in-time training–it’s on my mind a lot lately. Oh and don’t worry the assistant is nothing like Clippy.</summary></entry><entry><title type="html">No Evaulation? Possible side effects include</title><link href="/reflections/no-evaluation-side-effects/" rel="alternate" type="text/html" title="No Evaulation? Possible side effects include" /><published>2019-01-03T00:00:00+00:00</published><updated>2019-01-03T00:00:00+00:00</updated><id>/reflections/no-evaluation-side-effects</id><content type="html" xml:base="/reflections/no-evaluation-side-effects/">&lt;h3 id=&quot;how-do-you-measure-training-effectiveness&quot;&gt;How do you measure training effectiveness?&lt;/h3&gt;
+
+&lt;p&gt;Many projects are evaluated by two things:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;On Schedule?&lt;/li&gt;
+  &lt;li&gt;On Budget?&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;These two elements completely ignore the point of training: &lt;em&gt;people’s performance&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Many of us can agree that not measuring the results of training is bad, even if the best way to calculate ROI for training is not always intuitive or possible. There has to be other ways to rigorously measure training programs.&lt;/p&gt;
+
+&lt;p&gt;It takes serious thinking to set training goals and evaluate their effectiveness. Let’s be honest, with training evaluation, we’re trying to figure out what good training at our organization looks like, but we’re also trying to make training a much-loved and respected department within the organization. This quest leads Cathy Moore to assert that all good training goals have to be attached to business goals. For example, a decrease in calls to technical support after an upgrade or a reduced number of health and safety incidents. If these business goals are met, the training and all the other work is considered a success.&lt;/p&gt;
+
+&lt;p&gt;But back to what happens if we don’t evaluate training. There can be unintended side-effects&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Manager feedback replaces learner feedback&lt;/li&gt;
+  &lt;li&gt;A few voices stand in for all&lt;/li&gt;
+  &lt;li&gt;Meaningless survey questions are appended to programs&lt;/li&gt;
+  &lt;li&gt;Popular notions about training cloud real-evidence based results&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;###This 5th side effect hit me recently:&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;Evaluation gets stuck to a specific moment, instead of measuring change over time.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;When you don’t measure the effectiveness of training, an impromptu assessment is deeply rooted in our perception, in the present moment. This perspective washes away much of the larger context. We can’t see the changes as easily, unless they are apparent today.&lt;/p&gt;
+
+&lt;p&gt;Allow me to make a couple analogies.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Evaluating a training program only from how it looks today embodies a similar reflex to when we see a friend’s lovely photo on social media and can’t stop ourselves from thinking for a moment that their whole life it is that perfect (even if we really know better).&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Or if we visit a garden in August with all the blooms and forget the garden also lives through other seasons.&lt;/p&gt;
+
+&lt;p&gt;Similarly, if we have no serious way to measure training results, then today’s perception of the training will lead to a moment in time standing in for the larger impact of the training.&lt;/p&gt;
+
+&lt;p&gt;The squeaky wheel, complaining at our desk right now might overpower other results or feedback.&lt;/p&gt;
+
+&lt;p&gt;A comparison to a fancier course from a more established training team might obscure the efficiency of our own humbler endeavours.&lt;/p&gt;
+
+&lt;p&gt;We are using how we feel, what issues preoccupy us today to stand in for learner experience and performance.&lt;/p&gt;
+
+&lt;p&gt;Supervisors might come to a conclusion about the effectiveness of the training program at the wrong moment: before the learners have had a chance to practice or apply the training in real situations.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Whole projects haven been scrapped in similar scenario; I am sure.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;And back to how evaluation integrates us into the organization”&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;If we don’t track results, one day it becomes harder to argue for a changed methodology, or to sit in on the new product management meetings, or to ask for a conference ticket or a new tool, perhaps even good budget.&lt;/strong&gt;&lt;/p&gt;</content><author><name>Jessica Grosman</name></author><summary type="html">How do you measure training effectiveness? Many projects are evaluated by two things:</summary></entry><entry><title type="html">They just need to be aware of it</title><link href="/reflections/be-aware-of-it/" rel="alternate" type="text/html" title="They just need to be aware of it" /><published>2019-01-02T00:00:00+00:00</published><updated>2019-01-02T00:00:00+00:00</updated><id>/reflections/be-aware-of-it</id><content type="html" xml:base="/reflections/be-aware-of-it/">&lt;p&gt;I am always looking for ways to improve the eLearning courses I create. My main concern at the moment is creating solid courses that help my colleagues work more efficiently and effectively.&lt;/p&gt;
+
+&lt;h3 id=&quot;this-starts-with-goals&quot;&gt;This starts with goals.&lt;/h3&gt;
+
+&lt;p&gt;Good training isn’t about dumping information on learners, it’s about ensuring learners can use the new information.  Michael Allen and Julie Dirksen, two leaders in training, write that instructional designers should see red flags when they hear these &lt;em&gt;objectives&lt;/em&gt;:&lt;/p&gt;
+
+&lt;h3 id=&quot;red-flags&quot;&gt;Red flags&lt;/h3&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;“They just need to be aware of the changes.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“We just need people to know about the policy.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“We want to inform them about…”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“We want them to understand…”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;If you see these kinds of red flags, Allen recommends that you drill deeper. It can be difficult, but he recommends &lt;em&gt;the perseverance of Columbo&lt;/em&gt;–the ever-patient T.V. detective who always had just one more question–to get to the truth.&lt;/p&gt;
+
+&lt;p&gt;Be confident, and take Dirksen’s advice to keep asking, &lt;em&gt;“What do they actually need to do with this?”&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Eventually, you should get an answer. That’s the theory. In practice, the answers may seem to never come. It can seem rude to keep pressing, especially if the person you are trying to convince is your boss or a respected Subject Matter Expert.&lt;/p&gt;
+
+&lt;h3 id=&quot;why-are-information-dump-style-courses-still-so-firmly-ingrained-in-training-departments&quot;&gt;Why are information dump style courses still so firmly ingrained in training departments?&lt;/h3&gt;
+
+&lt;p&gt;Here is some of what I found and I would be happy to receive any feedback or comments you might have.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Creating courses focused on improving performance is harder&lt;/strong&gt;&lt;/p&gt;
+
+    &lt;p&gt;The planning stages is longer. Most people want to jump in and get creating content. But courses focused on performance or business objectives have the advantage of being easier to measure success and later improve.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Our society has an underlying assumption that education (read: new information) changes behaviour.&lt;/strong&gt;&lt;/p&gt;
+
+    &lt;p&gt;But studies in behavior and habit show that’s not the case. The best training leaves the learner, not only with an awareness of the new information, but enough practice and feedback to carry training outside the course.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;We have to prepare mini-trainings on good training for collaborators&lt;/strong&gt;&lt;/p&gt;
+
+    &lt;p&gt;Too often, our collaborators are focused on the information itself, and not the learners. We have to convince them effective training does more than simply introduce the information. It provides the information in a way the learner can use it and incorporate it into their work. &lt;em&gt;But I am preaching to the converted here, right?&lt;/em&gt; The important thing is convincing the SMEs and other stakeholders.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;We need to encourage them to think seriously about the real objectives of the training. When people cling to the “they-just-have-to-be-aware-of-it” objective, we need to help them realize the difference between telling someone a better way exists.&lt;/p&gt;
+
+&lt;p&gt;Convincing people can be hard though.&lt;/p&gt;
+
+&lt;h3 id=&quot;here-are-4-approaches-to-course-creation-that-hopefully-circumnavigate-the-information-trap-when-you-are-being-roadblocked&quot;&gt;Here are 4 approaches to course creation that hopefully circumnavigate the information trap when you are being roadblocked:&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Understand your audience.&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The advice goes to ask questions to managers, recent learnets etc. and to observe people doing their job. However, if there is resistance to moving away from information based courses, there is probably resistance in the organization to observing people doing their jobs and the answers to the above questions might be vague. Sometimes it will just take time to better understand what they do. &lt;strong&gt;Think:&lt;/strong&gt; A slow observation and a slow revolution.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Make up desired outcomes and don’t share them with anyone, subtly incorporate them.&lt;/strong&gt;&lt;/p&gt;
+
+    &lt;p&gt;Ask yourself: &lt;em&gt;“What do you want the employee to do with this new information?”&lt;/em&gt; and &lt;em&gt;“Is the gap between the current performance and our desired future performance only due to the information the audience has (or has access to)?”&lt;/em&gt; Create the information based course your organization expects but add a couple questions that link the material to their jobs. Or if it’s a information access issue, make some flashcards or an instant messaging image to remind them later. Usually these can slip through easily.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Try to get out of the training department as much as possible.&lt;/strong&gt;&lt;/p&gt;
+
+    &lt;p&gt;This goes hand in hand with the &lt;em&gt;slow observation&lt;/em&gt;. Keep it casual and make notes of what people tell you. It will help finesse objectives and your knowledge of the audience. Keep a journal. Trainers should be fully connected to others within the company including, the executives for vision and values; management and supervisors for needs, context, and goals; subject matter experts to define and understand the information; and recent successful learners for insight and feedback on the training.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Repeat to yourself: My job is of critical importance to the company’s success&lt;/strong&gt;&lt;/p&gt;
+
+    &lt;p&gt;It can be hard when no one wants to follow your advice for how to design a training. Trainers are on the front line of communication a company’s values, visions, goals and objectives to its employees. When employees talk about job satisfaction they talk about learning opportunities available.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Start by imagining activities that help learners practice.&lt;/strong&gt;
+Use these to guide questions or activities that you can add on to the information. See if you can slip some in. Prepare for pushback that it requires too much student work from the student. Remember they are expecting information and next buttons. So make the questions have little friction at the beginning. One or two fantastic questions or one amazing practice activity is all you need to start.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This all seems like solid common sense. The real key to making memorable, effective eLearning courses is to be able to communicate and convince everyone else involved that this is the best option. It might be a scarier, time-consuming option so it takes powers of persuasion and a track record to implement.&lt;/p&gt;
+
+&lt;p&gt;Adding elements of the course you hope to create to the information dump they expect, might help slowly convince everyone to adopt a new style. These microchanges are a way to show them there is another way.&lt;/p&gt;</content><author><name>Jessica Grosman</name></author><summary type="html">I am always looking for ways to improve the eLearning courses I create. My main concern at the moment is creating solid courses that help my colleagues work more efficiently and effectively.</summary></entry></feed>

@@ -50,5 +50,3 @@ The color scheme is from [Magoz's website](https://magoz.is/), as [highlighted o
 ### Cards in elearning 
 
 Overall, the cards offer a flexible outline to present chunks of information. It's an updated version of the tabbed view that is very popular in elearning. 
-
-Cards are popular on website because they are mobile friendly. This activity is not as responsive because it is made in Storyline. It looks like this on my phone: 
