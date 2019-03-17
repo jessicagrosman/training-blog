@@ -46,7 +46,7 @@ I didn't like the crop above so I went closer and just showed the relevant corne
 
 ### I decided to try some edits that take more time.
 
-###Would the extra time and effort be worth it?
+### Would the extra time and effort be worth it?
 
 #### Adding contrast by *dimming* the background
 We often use a semi-transparent layer with a cutout to highlight the feature we are talking about. In Snagit it is time-consuming to achieve the effect because I don't have layers to play with. 
