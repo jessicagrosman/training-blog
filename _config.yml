@@ -21,7 +21,7 @@ name                     : "Jessica Grosman"
 description              : "Learning Experience Design: thought experiments and protoypes"
 url                      : "https://jessicagrosman.github.io"
 baseurl                  : /blog
-repository               : "jessicagrosman/trainingland-blog"
+repository               : "jessicagrosman/blog"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 words_per_minute         : 200
 comments:
