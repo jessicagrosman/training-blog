@@ -39,7 +39,7 @@ I spent a lot of time as I worked wondering about her workflow. Always a good th
 
 ### Here's my example
 
-![Company Values Cards](blog/assets/images/values-cards-main.PNG)
+![Company Values Cards](/blog/assets/images/values-cards-main.PNG)
 
 **Try my version: [Company Values Cards](http://jessicagrosman.ca/values-cards/story_html5.html)**
 
