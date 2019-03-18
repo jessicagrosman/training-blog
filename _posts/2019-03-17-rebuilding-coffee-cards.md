@@ -4,10 +4,13 @@ categories: emulate-the-greats
 excerpt_separator: <!--more-->
 ---
 
-![Emulating a cards style learning presentation](/blog/assets/images/cards-comparisons.png)
+![Emulating a cards style learning presentation](/blog/assets/images/company-values-comparison.png)
 
 I have been rebuilding [Melissa Milloway's Educational Coffee Cards](http://work.melslearninglab.com/coffee-roast-cards/story_html5.html). It's an Articulate Storyline project that presents information with a bit of flair. The coffee cards have nice little details, especially in the interactions, that give the project a polished user-friendly look. 
 <!--more-->
+
+
+![Company Values Cards Demo](/blog/assets/images/company_values_cards.gif)
 
 ### Emulate the greats
 At work I am the only person working on these types of projects so I don't get to see how other work very often. I enjoy following Melissa Milloway because she works at the intersection of learning experiences, User Experience (UX) design and technology. I think she is on a quest shed some of elearning's negative baggage.
@@ -36,10 +39,12 @@ I spent a lot of time as I worked wondering about her workflow. Always a good th
 
 - Use javascript to change the background of the page so it looks like it's in full screen. It's another example of a small tweak that adds polish to the whole project. I could only get the javascript to work with the classic player. 
 
+![Comparison of story project with and without javascript](/blog/assets/images/javascript_backgrounds.png)
+
 
 ### Here's my example
 
-![Company Values Cards][(/blog/assets/images/values-cards-main.PNG)]
+![Company Values Cards](/blog/assets/images/values-cards-main.PNG)
 
 **Try my version: [Company Values Cards](http://jessicagrosman.ca/values-cards/story_html5.html)**
 
@@ -49,4 +54,6 @@ The color scheme is from [Magoz's website](https://magoz.is/), as [highlighted o
 
 ### Cards in elearning 
 
-Overall, the cards offer a flexible outline to present chunks of information. It's an updated version of the tabbed view that is very popular in elearning. 
+Overall, the cards offer a flexible outline to present chunks of information. It's an updated version of the tabbed view that is very popular in elearning.
+
+Cards are big in web design because they look good on most devices. I made this in storyline so it is not as responsive as html and css, but it looked pretty good on my smartphone. 
