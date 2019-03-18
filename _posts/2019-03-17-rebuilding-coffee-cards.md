@@ -4,7 +4,7 @@ categories: emulate-the-greats
 excerpt_separator: <!--more-->
 ---
 
-![Emulating a cards style learning presentation](/blog/assets/images/company-values-comparison.png)
+![Emulating a cards style learning presentation](/blog/assets/images/company_values-comparison.png)
 
 I have been rebuilding [Melissa Milloway's Educational Coffee Cards](http://work.melslearninglab.com/coffee-roast-cards/story_html5.html). It's an Articulate Storyline project that presents information with a bit of flair. The coffee cards have nice little details, especially in the interactions, that give the project a polished user-friendly look. 
 <!--more-->
@@ -13,7 +13,7 @@ I have been rebuilding [Melissa Milloway's Educational Coffee Cards](http://work
 ![Company Values Cards Demo](/blog/assets/images/company_values_cards.gif)
 
 ### Emulate the greats
-At work I am the only person working on these types of projects so I don't get to see how other work very often. I enjoy following Melissa Milloway because she works at the intersection of learning experiences, User Experience (UX) design and technology. I think she is on a quest shed some of elearning's negative baggage.
+At work I am the only person working on these types of projects so I don't get to see how other work very often. I enjoy following Melissa Milloway because she works at the intersection of learning experiences, User Experience (UX) design and technology. I think she is on a quest to shed some of elearning's negative baggage.
 
 Melissa brings a level of attention to detail in graphic design and UX that I wanted to learn from.
 
@@ -27,7 +27,7 @@ Melissa had [written about the  Coffee Cards project](https://www.linkedin.com/p
 
 I spent a lot of time as I worked wondering about her workflow. Always a good thing because it made me reflect on mine too!
 
-### E-learning Development take-aways
+### E-learning development take-aways
 
 - Melissa makes prototypes of the UI in [Adobe XD](https://www.adobe.com/products/xd.html) first. It's a really good idea. Adobe Xd is free and you can export elements in png at the end. 
 
