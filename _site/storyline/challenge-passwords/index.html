@@ -1,0 +1,575 @@
+<!doctype html>
+<!--
+  Minimal Mistakes Jekyll Theme 4.14.2 by Michael Rose
+  Copyright 2013-2019 Michael Rose - mademistakes.com | @mmistakes
+  Free for personal and commercial use under the MIT license
+  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
+-->
+<html lang="en" class="no-js">
+  <head>
+    <meta charset="utf-8">
+
+<!-- begin _includes/seo.html --><title>Cyber Security Awareness Training: Passwords | Learningland</title>
+<meta name="description" content="I made a learning activity about choosing strong, complex passwords at work. It’s part of an E-learning Heroes’ challenge about web objects. I used the web objects to include activities that give feedback about password choices. I had a bit of trouble technically but learned new things about iframes. Read on to see my process I used and a bit of troubleshooting.Or check out the project: Get control over your passwords.">
+
+
+
+<meta property="og:type" content="article">
+<meta property="og:locale" content="en_US">
+<meta property="og:site_name" content="Learningland">
+<meta property="og:title" content="Cyber Security Awareness Training: Passwords">
+<meta property="og:url" content="http://localhost:4000/blog/storyline/challenge-passwords/">
+
+
+  <meta property="og:description" content="I made a learning activity about choosing strong, complex passwords at work. It’s part of an E-learning Heroes’ challenge about web objects. I used the web objects to include activities that give feedback about password choices. I had a bit of trouble technically but learned new things about iframes. Read on to see my process I used and a bit of troubleshooting.Or check out the project: Get control over your passwords.">
+
+
+
+
+
+
+
+  <meta property="article:published_time" content="2019-02-24T00:00:00-04:00">
+
+
+
+
+
+
+<link rel="canonical" href="http://localhost:4000/blog/storyline/challenge-passwords/">
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- end _includes/seo.html -->
+
+
+<link href="/blog/feed.xml" type="application/atom+xml" rel="alternate" title="Learningland Feed">
+
+<!-- https://t.co/dKP3o1e -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script>
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+</script>
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="/blog/assets/css/main.css">
+
+<!--[if IE ]>
+  <style>
+    /* old IE unsupported flexbox fixes */
+    .greedy-nav .site-title {
+      padding-right: 3em;
+    }
+    .greedy-nav button {
+      position: absolute;
+      top: 0;
+      right: 0;
+      height: 100%;
+    }
+  </style>
+<![endif]-->
+
+
+
+    <!-- start custom head snippets -->
+
+<!-- insert favicons. use https://realfavicongenerator.net/ -->
+
+<!-- end custom head snippets -->
+
+  </head>
+
+  <body class="layout--single">
+
+    <!--[if lt IE 9]>
+<div class="notice--danger align-center" style="margin: 0;">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience.</div>
+<![endif]-->
+
+    <div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+        <a class="site-title" href="/blog/">Learningland</a>
+        <ul class="visible-links"><li class="masthead__menu-item">
+              <a href="/blog/about/" >About me</a>
+            </li></ul>
+        
+        <button class="greedy-nav__toggle hidden" type="button">
+          <span class="visually-hidden">Toggle menu</span>
+          <div class="navicon"></div>
+        </button>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>
+
+
+    <div class="initial-content">
+      
+
+
+
+<div id="main" role="main">
+  
+  <div class="sidebar sticky">
+  
+
+
+<div itemscope itemtype="https://schema.org/Person">
+
+  
+    <div class="author__avatar">
+      
+
+      
+        <img src="/blog/assets/images/bio-photo.jpg" alt="Jessica Grosman" itemprop="image">
+      
+    </div>
+  
+
+  <div class="author__content">
+    
+      <h3 class="author__name" itemprop="name">Jessica Grosman</h3>
+    
+    
+      <p class="author__bio" itemprop="description">
+        I make training about software and IT, mostly. Also super interested in making training with technology.
+      </p>
+    
+  </div>
+
+  <div class="author__urls-wrapper">
+    <button class="btn btn--inverse">Follow</button>
+    <ul class="author__urls social-icons">
+      
+        <li itemprop="homeLocation" itemscope itemtype="https://schema.org/Place">
+          <i class="fas fa-fw fa-map-marker-alt" aria-hidden="true"></i> <span itemprop="name">Montreal, Canada</span>
+        </li>
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      <!--
+  <li>
+    <a href="http://link-to-whatever-social-network.com/user/" itemprop="sameAs" rel="nofollow noopener noreferrer">
+      <i class="fas fa-fw" aria-hidden="true"></i> Custom Social Profile Link
+    </a>
+  </li>
+-->
+    </ul>
+  </div>
+</div>
+
+  
+  </div>
+
+
+  <article class="page" itemscope itemtype="https://schema.org/CreativeWork">
+    <meta itemprop="headline" content="Cyber Security Awareness Training: Passwords">
+    <meta itemprop="description" content="I made a learning activity about choosing strong, complex passwords at work. It’s part of an E-learning Heroes’ challenge about web objects. I used the web objects to include activities that give feedback about password choices. I had a bit of trouble technically but learned new things about iframes. Read on to see my process I used and a bit of troubleshooting.Or check out the project: Get control over your passwords.">
+    <meta itemprop="datePublished" content="February 24, 2019">
+    
+
+    <div class="page__inner-wrap">
+      
+        <header>
+          <h1 id="page-title" class="page__title" itemprop="headline">Cyber Security Awareness Training: Passwords
+</h1>
+          
+            <p class="page__meta"><i class="far fa-clock" aria-hidden="true"></i> 
+
+
+
+
+  5 minute read
+</p>
+          
+        </header>
+      
+
+      <section class="page__content" itemprop="text">
+        
+        <p>I made a learning activity about choosing strong, complex passwords at work. It’s part of an <strong>E-learning Heroes’ challenge</strong> about web objects. I used the web objects to include activities that give feedback about password choices. I had a bit of trouble technically but learned new things about iframes. Read on to see my process I used and a bit of troubleshooting.</p>
+
+<p>Or check out the project: <a href="http://jessicagrosman.ca/passwords101/story_html5.html">Get control over your passwords</a>.
+<!--more--></p>
+
+<h2 id="context">Context</h2>
+<p>The reality is bad passwords let bad people do bad things: steal your identity, break into company’s infrastructure, etc.</p>
+
+<p>Cyber Security Awareness Training still covers passwords because people still choose bad passwords.</p>
+
+<p>A coworker had always told me she had a password that was hard to guess. She was sure of it. One day she went home without an important file and I had to log in to her computer. Her password was <em>BOYFRIENDSNAME123.</em></p>
+
+<p>I was gobsmacked.</p>
+
+<p>Password training is difficult because we are talking about preventative measures and  changing habits. And really who likes passwords anyways?</p>
+
+<p>Most training gives information about password strength and complexity: guidelines and things to avoid. But information alone rarely changes behaviour.</p>
+
+<p>I have thought that interactions focused on increasing feedback could help change password choosing behaviour and habits.</p>
+
+<p>I had two idea to include:</p>
+<ol>
+  <li>Password strength analyzer</li>
+  <li>Pwned Password.</li>
+</ol>
+
+<p>To really solidify good password making habits, I think we would need to look at how to roll out password managers and help people book time to set them up.</p>
+
+<p><em>(If only they would actually listen to us about password managers! They really do make using the internet less frustrating!)</em></p>
+
+<h3 id="password-strength-analyzer">Password Strength Analyzer</h3>
+
+<p>I noticed during a company wide password manager implementation that people pay  some attention to password strength meters. Participants let out satisfied exclamations when their passwords were evaluated as strong.</p>
+
+<p>There is some debate around password strength analyzers. Security experts argue they  do not accurately calculate complexity.</p>
+
+<p>For example, an analyzer might evaluate that <em>Passw0rd</em> is stronger than <em>bananacowgrease</em> because it includes a number and a capital letter.</p>
+
+<p>But the reality it is actually probably easier to crack <em>Passw0rd</em> than bananacowgrease because it uses a common password and a common way to incorporate capitals and special characters.</p>
+
+<p>For technical reasons I couldn’t use an analyzer that displayed password entropy, an estimate about how long the password would take to crack. That was the feedback I really wanted, e.g. <em>Your password would take 5 minutes to crack.</em></p>
+
+<p>At least the one I found had a simple UI, the right tone and gave feedback about popular choices. I would love if the password analyzer evaluated people’s passwords based on the points on the <em>Dos and Don’ts slides</em>, then I wouldn’t even need to include them!</p>
+
+<h3 id="pwned-passwords">Pwned passwords</h3>
+
+<p><a href="https://haveibeenpwned.com/Passwords">Pwned Passwords</a> is a project Troy Hunt, a security expert, who started <strong>Have I been Pwned?</strong> and <strong>Pwned Passwords</strong>.</p>
+
+<p>Hunt collects information (hacked emails and passwords) from data breaches once they have now been made public. I thought the emotional resonance of realizing your password has been part of a data breach might help some people pay attention to the advice about choosing complex passwords and using a password manager.</p>
+
+<p>Many applications use the <strong>Pwned Password API</strong> to warn their users that their password is a bad choice.</p>
+
+<p>A consideration with this type of activity is how safe it is to send your password to the 3rd party application. I am familiar with <strong>Pwned Passwords</strong> and don’t have much worry about that. I kept the analyzer as is for this demo, but I would use a different one if this project goes further.</p>
+
+<h2 id="planning">Planning</h2>
+
+<p>With the above context swirling in my head for some time, I started the text-based story boards to plan the content. I like storyboards because it makes the actual development quicker. Check out <a href="/blog/assets/pdf/password_storyboard.pdf">the storyboard pdf</a>.</p>
+
+<p>I also researched tabbed outlines and decided to go with one similar to <a href="https://www.youtube.com/watch?v=dI0Yy1d1Fb8">a Storyline Demo</a>.</p>
+
+<h2 id="development">Development</h2>
+
+<p>I got hung up on some UX design this time.</p>
+
+<p>The tabs or buttons were hard to get just right (they are still not there 100%). I especially had trouble with colours choices for different states etc. I spent a lot of time fiddling around in Storyline and using the format painter.</p>
+
+<p>It’s stressful to play with the UI at a point when the course was already half created. There is just so much going on: layers, triggers, objects, etc.</p>
+
+<p>I think I am going to spend a little more time working on templating the design before I dive in. I just downloaded <strong>Adobe Xd</strong> to try out.</p>
+
+<h3 id="articulate-storyline---web-objects">Articulate Storyline - Web Objects</h3>
+
+<p>Pwned Passwords and the analyzer are included in the training through Web Objects.</p>
+
+<p>I am not a huge fan of this feature for public websites, but I tried it for an <a href="https://community.articulate.com/articles/using-web-objects-for-performance-support-in-e-learning">E-Learning Heroes challenge</a>. My main frustration was with how web content is displayed.</p>
+
+<p>When I tested the links I wanted to use, 99% of the time Storyline warned me that the content had to be opened in a new browser window.</p>
+
+<p>If you open the content in a new browser window it is essentially the same as a hyperlink with <em>target=”_blank”</em>.</p>
+
+<p>I really didn’t want to include content in new browser windows.</p>
+
+<h4 id="the-benefits-of-using-a-new-browser-window-are-few">The benefits of using a new browser window are few:</h4>
+
+<p>✔ The learner can consult the document and not lose their place in the activity.</p>
+
+<p>✖ The pop-up window might cause problems with the LMS.</p>
+
+<p>✖ The design is not as elegant.</p>
+
+<p>✖ The learner is – at least momentarily – leaving the world you have created.</p>
+
+<h4 id="troubleshooting-why-your-content-wont-load-in-the-web-object">Troubleshooting why your content won’t load in the web object</h4>
+<p>Many websites block the public from using their content in an iframe for <a href="https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/X-Frame-Options">security reasons</a>. You can check if a site will let you insert the page into a web object in Storyline by inspecting the page with Developer Tools in Google Chrome.</p>
+
+<ol>
+  <li>To open Developer Tools, press CTRL + SHIFT + I.</li>
+  <li>Click <strong>Network</strong>.</li>
+  <li>Enter “x-frame” in the <strong>Filter</strong> box.</li>
+  <li>If <strong>x-frame</strong> is set to Deny, the content will not load directly on the slide.</li>
+</ol>
+
+<p>In the end, making custom html pages and hosting them on our own server seems like the best option for web objects.</p>
+
+
+        
+      </section>
+
+      <footer class="page__meta">
+        
+        
+
+
+        
+          <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time datetime="2019-02-24T00:00:00-04:00">February 24, 2019</time></p>
+        
+      </footer>
+
+      
+
+      
+  <nav class="pagination">
+    
+      <a href="/blog/storyline/challenge-madlibs-lock-pc/" class="pagination--pager" title="Storyline Challenge: MadLibs - Computer Security
+">Previous</a>
+    
+    
+      <a href="/blog/documentation/cluttered-ui-screenshot-experiment/" class="pagination--pager" title="Cluttered UIs, Screen shots and Documentation
+">Next</a>
+    
+  </nav>
+
+    </div>
+
+    
+  </article>
+
+  
+  
+    <div class="page__related">
+      <h4 class="page__related-title">You May Also Enjoy</h4>
+      <div class="grid__wrapper">
+        
+          
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="/blog/test/" rel="permalink">test
+</a>
+      
+    </h2>
+    
+      <p class="page__meta"><i class="far fa-clock" aria-hidden="true"></i> 
+
+
+
+
+  less than 1 minute read
+</p>
+    
+    <p class="archive__item-excerpt" itemprop="description">lalalalala
+</p>
+  </article>
+</div>
+
+        
+          
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="/blog/notes/customer-education-labs/" rel="permalink">Leading Indicators as Customer Education Goals
+</a>
+      
+    </h2>
+    
+      <p class="page__meta"><i class="far fa-clock" aria-hidden="true"></i> 
+
+
+
+
+  4 minute read
+</p>
+    
+    <p class="archive__item-excerpt" itemprop="description">If you tie training goals to renewal rates you missed the opportunity to have an impact at the business. You focused too far along the customer life cycle.
+</p>
+  </article>
+</div>
+
+        
+          
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="/blog/emulate-the-greats/rebuilding-coffee-cards/" rel="permalink">Rebuilding Melissa Milloway’s Coffee Cards
+</a>
+      
+    </h2>
+    
+      <p class="page__meta"><i class="far fa-clock" aria-hidden="true"></i> 
+
+
+
+
+  3 minute read
+</p>
+    
+    <p class="archive__item-excerpt" itemprop="description">
+
+I have been rebuilding Melissa Milloway’s Educational Coffee Cards. It’s an Articulate Storyline project that presents information with a bit of flair. The...</p>
+  </article>
+</div>
+
+        
+          
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="/blog/documentation/cluttered-ui-screenshot-experiment/" rel="permalink">Cluttered UIs, Screen shots and Documentation
+</a>
+      
+    </h2>
+    
+      <p class="page__meta"><i class="far fa-clock" aria-hidden="true"></i> 
+
+
+
+
+  3 minute read
+</p>
+    
+    <p class="archive__item-excerpt" itemprop="description">An experiement: 1) Take a screen shot of a cluttered UI; 2) do minimal edits; 3) make it easy for a user to quickly find the discussed feature
+
+</p>
+  </article>
+</div>
+
+        
+      </div>
+    </div>
+  
+</div>
+
+    </div>
+
+    
+
+    <div class="page__footer">
+      <footer>
+        <!-- start custom footer snippets -->
+
+<!-- end custom footer snippets -->
+        <div class="page__footer-follow">
+  <ul class="social-icons">
+    
+
+    
+
+    <li><a href="/blog/feed.xml"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+  </ul>
+</div>
+
+<div class="page__footer-copyright">&copy; 2019 Jessica Grosman. Powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
+
+      </footer>
+    </div>
+
+    
+  <script src="/blog/assets/js/main.min.js"></script>
+  <script defer src="https://use.fontawesome.com/releases/v5.6.0/js/all.js" integrity="sha384-z9ZOvGHHo21RqN5De4rfJMoAxYpaVoiYhuJXPyVmSs8yn20IE3PmBM534CffwSJI" crossorigin="anonymous"></script>
+
+
+
+
+
+
+
+    
+  <script>
+    var disqus_config = function () {
+      this.page.url = "http://localhost:4000/blog/storyline/challenge-passwords/";  // Replace PAGE_URL with your page's canonical URL variable
+      this.page.identifier = "/storyline/challenge-passwords"; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+    };
+    (function() { // DON'T EDIT BELOW THIS LINE
+      var d = document, s = d.createElement('script');
+      s.src = 'https://jgro.disqus.com/embed.js';
+      s.setAttribute('data-timestamp', +new Date());
+      (d.head || d.body).appendChild(s);
+    })();
+  </script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+
+
+  
+
+
+
+  </body>
+</html>

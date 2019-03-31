@@ -1,4 +1,416 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2019-01-06T19:49:27+00:00</updated><id>/feed.xml</id><title type="html">Trainingland Blog</title><subtitle>Thoughts on making training</subtitle><author><name>Jessica Grosman</name></author><entry><title type="html">Resume assistant: good JIT example</title><link href="/examples/resume-assistant/" rel="alternate" type="text/html" title="Resume assistant: good JIT example" /><published>2019-01-04T00:00:00+00:00</published><updated>2019-01-04T00:00:00+00:00</updated><id>/examples/resume-assistant</id><content type="html" xml:base="/examples/resume-assistant/">&lt;p&gt;I came across the Resume Assistant in Microsoft Word and LinkedIn. I thought it was a great example of Just-in-time training. Before we get into it, I want to talk about just-in-time training–it’s on my mind a lot lately.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="http://localhost:4000/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/blog/" rel="alternate" type="text/html" /><updated>2019-03-31T19:39:02-04:00</updated><id>http://localhost:4000/blog/feed.xml</id><title type="html">Learningland</title><subtitle>Learning Experience Design: thought experiments and protoypes</subtitle><author><name>Jessica Grosman</name></author><entry><title type="html">Leading Indicators as Customer Education Goals</title><link href="http://localhost:4000/blog/notes/customer-education-labs/" rel="alternate" type="text/html" title="Leading Indicators as Customer Education Goals" /><published>2019-03-31T00:00:00-04:00</published><updated>2019-03-31T00:00:00-04:00</updated><id>http://localhost:4000/blog/notes/customer-education-labs</id><content type="html" xml:base="http://localhost:4000/blog/notes/customer-education-labs/">&lt;p&gt;I listen to podcasts when I commute. The morning commute is professional development time. I imagine podcast hosts and guests as dream colleagues–sharing tidbits and tips over the first coffee of the day.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://customer.education&quot;&gt;Customer Education Labs&lt;/a&gt;  is a podcast by Adam Avramescu and Dave Derrington. They both work in Customer Education for Software-as-a-Service companies, the type of software that requires a subscription instead of a one time purchase, and is often on the cloud. Not matter where you fall on the SaaS debate, Customer Education is a fascinating training phenomenon.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://medium.com/@Sumeru/what-is-customer-education-and-why-should-customer-success-teams-care-e0784c6661af&quot;&gt;Customer Education&lt;/a&gt; falls at the intersection of training, marketing, technical support, and technical writing. It’s firmly in the Customer Success sphere of a technology company.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;The CELABS podcast hosts are self-described data nerds and spent half of the first episode making the business case for Customer Education.&lt;/strong&gt; They brought an interesting mix of studies by TSIA as well as data and the metrics from their own company.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;The gist is that Customer Education leads to more customers renewing. That boosts profits. Customer Education can also lower costs because trained customers are more independent.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Adam explained how he did it at Optimizely. &lt;a href=&quot;https://customer.education/podcast/episode-1-getting-started-with-customer-education/&quot;&gt;Listen to the episode&lt;/a&gt; or read my notes below.&lt;/p&gt;
+
+&lt;h3 id=&quot;customer-education-is-crucial-for-saas-success&quot;&gt;Customer Education is crucial for SaaS Success&lt;/h3&gt;
+
+&lt;p&gt;The Board of Directors at a SaaS company pays attention to two metrics:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Life time value (LTV)&lt;/strong&gt;: The net profit from the relationship with the client. In SaaS this increases with renewal. The cost of technical support for example also decreases the LTV.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Customer Acquisition Cost (CAC)&lt;/strong&gt;: How much it cost to get the customer to buy the service/product. This is often high.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;LTV is critical to success. It hinges on having customers renew. Customers have to stay long enough for a company to recoup the CAC amount and renew even more for the company to make a profit. The net renew rate has to be over 100% for a company to grow.&lt;/p&gt;
+
+&lt;p&gt;SaaS companies work on retaining customers through updates that give them the competitive edge and Customer Success programs. These programs include different spheres: technical support, community management, project management and documentation, for example.&lt;/p&gt;
+
+&lt;p&gt;At some point Customer Success departments add Customer Education to the mix.&lt;/p&gt;
+
+&lt;p&gt;Adam recommends asking: &lt;strong&gt;Am I going to achieve LTV if Customer Success Managers are running around, reacting to customers and creating ad-hoc training?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Customer Education is an essential part of increasing LTV. &lt;strong&gt;Customer Education is important because it has a higher potential to scale.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://blog.thoughtindustries.com/new-blog/infographic-the-roi-of-customer-training&quot;&gt;According to the TSIA&lt;/a&gt; &lt;strong&gt;trained customers are 68% more likely to use a product&lt;/strong&gt;. Training also take the pressure off other teams in Customer Success. Trained customers are &lt;strong&gt;87% more likely to work independently&lt;/strong&gt;. They don’t ask clog up technical support with newbie questions.&lt;/p&gt;
+
+&lt;h3 id=&quot;linking-customer-education-to-leading-indicators-and-business-objectives&quot;&gt;Linking Customer Education to Leading Indicators and Business Objectives&lt;/h3&gt;
+
+&lt;p&gt;A big plus with web apps is you can collect data about your customers in and out of the application. Of course, you have to choose the right information to tie training objectives to.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;If you tie training goals to renewal rates you missed the opportunity to have an impact at the business. You focused too far along the customer life cycle.&lt;/strong&gt; Renewal and churn (how many people do not renew) are lagging indicators – the final metrics.&lt;/p&gt;
+
+&lt;h3 id=&quot;optimizely-case-study&quot;&gt;Optimizely Case study&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.optimizely.com/&quot;&gt;Optimizely&lt;/a&gt; is a SaaS product that helps customers experiment with ideas and strategy by running tests.&lt;/p&gt;
+
+&lt;p&gt;At Optimizely, they found that they needed to identify the customer behaviours that lead to renewal.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;The leading indicators that led to renewal:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;How often customers log in to the software&lt;/li&gt;
+  &lt;li&gt;How many experiments they start&lt;/li&gt;
+  &lt;li&gt;How many experiments achieve statistical significance&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;If the leading indicator numbers are high it means that the customer is getting meaningful usage from the product. They are more likely to renew.&lt;/p&gt;
+
+&lt;p&gt;At Optimizely, the looked at how trained and untrained customers fared on these 3 leading indicators.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Customers that consulted the knowledge base  were 70% more likely to run an experiment&lt;/strong&gt; than people who did not look at the documentation.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Customers who graduated from the academy (interactive elearning) were 15% more likely to run experiments than people who only consulted the documentation.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;So customers who were trained were 85% more likely to run experiments than untrained customers.&lt;/p&gt;
+
+&lt;p&gt;That is a stat you can yell from the rooftops.&lt;/p&gt;
+
+&lt;p&gt;It was similar for the third metric about how many experiments achieved statistical significance. Basically, how many customers use the app successfully.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Forty-six per cent of customers who consulted the knowledge base ran experiment that achieved statistical significance.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Customers who graduated from the academy got a 17% bump&lt;/strong&gt;, so 61% ran experiment that achieved statistical significance.&lt;/p&gt;
+
+&lt;p&gt;Finally, &lt;strong&gt;92% of trained customers renewed versus 80% of untrained customers.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;We can’t say education caused product adoption. It is clear that &lt;strong&gt;customer education correlates with product adoption.&lt;/strong&gt; These statistics are the kind you can bring to a board and they should perk up their ears. It makes a case for sound, thought-out Customer Education.&lt;/p&gt;
+
+&lt;h3 id=&quot;takeaways&quot;&gt;Takeaways&lt;/h3&gt;
+
+&lt;p&gt;I am interested in this issue because Instructional Designers have &lt;a href=&quot;https://elearningindustry.com/the-one-skill-you-need-to-excel-in-instructional-design&quot;&gt;spilled a lot ink&lt;/a&gt; &lt;a href=&quot;https://www.learningsolutionsmag.com/articles/2538/target-business-goals-with-measurable-learning-objectives&quot;&gt;about&lt;/a&gt; &lt;a href=&quot;https://blog.cathy-moore.com/2013/11/how-to-create-a-training-goal-in-2-quick-steps/&quot;&gt;linking learning objectives to business goals&lt;/a&gt;. But sometimes I think we over think it. Examples like getting people to log in are deceptively simple. I also appreciated the focus on leading indicators instead of the ultimate business goal.&lt;/p&gt;</content><author><name>Jessica Grosman</name></author><summary type="html">If you tie training goals to renewal rates you missed the opportunity to have an impact at the business. You focused too far along the customer life cycle.</summary></entry><entry><title type="html">test</title><link href="http://localhost:4000/blog/test/" rel="alternate" type="text/html" title="test" /><published>2019-03-31T00:00:00-04:00</published><updated>2019-03-31T00:00:00-04:00</updated><id>http://localhost:4000/blog/test</id><content type="html" xml:base="http://localhost:4000/blog/test/">&lt;p&gt;lalalalala&lt;/p&gt;</content><author><name>Jessica Grosman</name></author><summary type="html">lalalalala</summary></entry><entry><title type="html">Rebuilding Melissa Milloway’s Coffee Cards</title><link href="http://localhost:4000/blog/emulate-the-greats/rebuilding-coffee-cards/" rel="alternate" type="text/html" title="Rebuilding Melissa Milloway's Coffee Cards" /><published>2019-03-17T00:00:00-04:00</published><updated>2019-03-17T00:00:00-04:00</updated><id>http://localhost:4000/blog/emulate-the-greats/rebuilding-coffee-cards</id><content type="html" xml:base="http://localhost:4000/blog/emulate-the-greats/rebuilding-coffee-cards/">&lt;p&gt;&lt;img src=&quot;/blog/assets/images/company_values-comparison.png&quot; alt=&quot;Emulating a cards style learning presentation&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I have been rebuilding &lt;a href=&quot;http://work.melslearninglab.com/coffee-roast-cards/story_html5.html&quot;&gt;Melissa Milloway’s Educational Coffee Cards&lt;/a&gt;. It’s an Articulate Storyline project that presents information with a bit of flair. The coffee cards have nice little details, especially in the interactions, that give the project a polished user-friendly look. 
+&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/images/company_values_cards.gif&quot; alt=&quot;Company Values Cards Demo&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;emulate-the-greats&quot;&gt;Emulate the greats&lt;/h3&gt;
+&lt;p&gt;At work I am the only person working on these types of projects so I don’t get to see how other work very often. I enjoy following Melissa Milloway because she works at the intersection of learning experiences, User Experience (UX) design and technology. I think she is on a quest to shed some of elearning’s negative baggage.&lt;/p&gt;
+
+&lt;p&gt;Melissa brings a level of attention to detail in graphic design and UX that I wanted to learn from.&lt;/p&gt;
+
+&lt;p&gt;I don’t know Melissa Milloway, but I have the impression she is really generous. She shows her work on her website and LinkedIn, as well as providing storyline files for download and tutorials.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;*Ok, Fangirl fawning over*&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Melissa had &lt;a href=&quot;https://www.linkedin.com/pulse/heres-how-i-made-educational-coffee-roast-cards-melissa-milloway/&quot;&gt;written about the  Coffee Cards project&lt;/a&gt; and &lt;a href=&quot;http://design-system.melslearninglab.com/storyline/patterns/educational-cards/&quot;&gt;shared a storyline file for a similar project&lt;/a&gt;, so I could really get under the hood and dig in to her design.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Coffee cards&lt;/em&gt; looks simple, but the simplicity comes from a lot of detailed, finessed design: triggers, motion paths, animations, javascript and deft use of the timeline go into this project.&lt;/p&gt;
+
+&lt;p&gt;I spent a lot of time as I worked wondering about her workflow. Always a good thing because it made me reflect on mine too!&lt;/p&gt;
+
+&lt;h3 id=&quot;e-learning-development-take-aways&quot;&gt;E-learning development take-aways&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Melissa makes prototypes of the UI in &lt;a href=&quot;https://www.adobe.com/products/xd.html&quot;&gt;Adobe XD&lt;/a&gt; first. It’s a really good idea. Adobe Xd is free and you can export elements in png at the end.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Working on the design outside of Storyline gave me time to focus on colours and graphics in a way I usually don’t. There are a bunch of benefits. First, it is easier to manipulate graphics in Xd than in Storyline. Second, I was focused on the design, instead of what usually happends: tinkering with the look as I work on interactions in Storyline. It saves time in the long run and makes developing in Stroyline less frustrating.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;In Storyline, the timeline is mostly used to make seamless intros and outros. The timeline is often paused much of the time then restarted by triggers.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;I usually steer clear of the animation tab. This project showed me that you can make nice things with animation and motion paths, if you use a light hand. The project has fades and motion paths that last .25 seconds. Objects are nudged in hovers by 3px.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Use javascript to change the background of the page so it looks like it’s in full screen. It’s another example of a small tweak that adds polish to the whole project. I could only get the javascript to work with the classic player.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/images/javascript_backgrounds.png&quot; alt=&quot;Comparison of story project with and without javascript&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;heres-my-example&quot;&gt;Here’s my example&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/images/values-cards-main.PNG&quot; alt=&quot;Company Values Cards&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Try my version: &lt;a href=&quot;http://jessicagrosman.ca/values-cards/story_html5.html&quot;&gt;Company Values Cards&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I used &lt;a href=&quot;https://www.gsoft.com/en/career/&quot;&gt;Gsoft’s company values&lt;/a&gt; for the cards. It’s Montreal software company that has a unique perspective on work life. I thought it could be an interesting way to show the values for onboarding training.&lt;/p&gt;
+
+&lt;p&gt;The color scheme is from &lt;a href=&quot;https://magoz.is/&quot;&gt;Magoz’s website&lt;/a&gt;, as &lt;a href=&quot;https://www.canva.com/learn/website-color-schemes/&quot;&gt;highlighted on Canva’s blog&lt;/a&gt;. I streamlined the design a bit: removing the icons on the cards and the spin from the close icon.&lt;/p&gt;
+
+&lt;h3 id=&quot;cards-in-elearning&quot;&gt;Cards in elearning&lt;/h3&gt;
+
+&lt;p&gt;Overall, the cards offer a flexible outline to present chunks of information. It’s an updated version of the tabbed view that is very popular in elearning.&lt;/p&gt;
+
+&lt;p&gt;Cards are big in web design because they look good on most devices. I made this in storyline so it is not as responsive as html and css, but it looked pretty good on my smartphone.&lt;/p&gt;</content><author><name>Jessica Grosman</name></author><summary type="html">I have been rebuilding Melissa Milloway’s Educational Coffee Cards. It’s an Articulate Storyline project that presents information with a bit of flair. The coffee cards have nice little details, especially in the interactions, that give the project a polished user-friendly look.</summary></entry><entry><title type="html">Cluttered UIs, Screen shots and Documentation</title><link href="http://localhost:4000/blog/documentation/cluttered-ui-screenshot-experiment/" rel="alternate" type="text/html" title="Cluttered UIs, Screen shots and Documentation" /><published>2019-03-06T00:00:00-04:00</published><updated>2019-03-06T00:00:00-04:00</updated><id>http://localhost:4000/blog/documentation/cluttered-ui-screenshot-experiment</id><content type="html" xml:base="http://localhost:4000/blog/documentation/cluttered-ui-screenshot-experiment/">&lt;h3 id=&quot;an-experiement-1-take-a-screen-shot-of-a-cluttered-ui-2-do-minimal-edits-3-make-it-easy-for-a-user-to-quickly-find-the-discussed-feature&quot;&gt;An experiement: 1) Take a screen shot of a cluttered UI; 2) do minimal edits; 3) make it easy for a user to quickly find the discussed feature&lt;/h3&gt;
+&lt;!--more--&gt;
+
+&lt;p&gt;When I take screen shots for documentation I often hum and haw over the User Interface.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Am I showing too much? Or too little? Can someone glance at the image and easily situate themselves?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;Most of the UIs I work with are pretty cluttered.&lt;/strong&gt; When I take a picture &lt;strong&gt;I worry that the focal point gets lost&lt;/strong&gt; among all the buttons, options, menus and tabs.&lt;/p&gt;
+
+&lt;p&gt;I wanted to do a little study of different approaches to screen shots.&lt;/p&gt;
+
+&lt;p&gt;I used Microsoft Excel since it has a packed ribbon and dashboard. It isn’t what I work with normally but I thought a new subject might let me see things in new ways.&lt;/p&gt;
+
+&lt;p&gt;I want people to focus on Insert Function, the button that opens the Insert Function Dialog box.&lt;/p&gt;
+
+&lt;p&gt;I used Snagit and Snagit Editor for everything.&lt;/p&gt;
+
+&lt;h4 id=&quot;base-image&quot;&gt;Base image&lt;/h4&gt;
+&lt;p&gt;This is the base image. It’s kind of like a Where’s Waldo at this point.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/images/base2.png&quot; alt=&quot;A screenshot of an Excel Workbook and the Ribbon Menu&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;enter-the-box-and-arrow&quot;&gt;Enter the box and arrow&lt;/h4&gt;
+
+&lt;p&gt;The box contouring the button and the arrow are a classic screen shot online help strategy.&lt;/p&gt;
+
+&lt;p&gt;When I first glance at the image I find there is a lot competing for my attention before I settle on the arrow and box. Then it seems the blue arrow is in competition with the green highlighted box.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/images/boxarrow1.png&quot; alt=&quot;Blue box contouring Insert Function button, plus a blue arrow&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;crop-the-bottom-two-thirds&quot;&gt;Crop the bottom two-thirds&lt;/h4&gt;
+&lt;p&gt;The next course of action was to crop. I first cropped just the bottom because sometimes users find the close crop too extreme and find it difficult to orient themselves.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/images/cropped.png&quot; alt=&quot;Excel workbook cropped on 3rd line of workbook&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;crop-even-more-tighter-tighter&quot;&gt;Crop even more! Tighter! Tighter!&lt;/h4&gt;
+&lt;p&gt;I didn’t like the crop above so I went closer and just showed the relevant corner. I like this and it seems pretty obvious where we are in the application. It focuses on the Insert Function button well.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/images/extracropped.png&quot; alt=&quot;Excel application screen cropped showing top left corner&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;i-decided-to-try-some-edits-that-take-more-time&quot;&gt;I decided to try some edits that take more time.&lt;/h3&gt;
+
+&lt;h3 id=&quot;would-the-extra-time-and-effort-be-worth-it&quot;&gt;Would the extra time and effort be worth it?&lt;/h3&gt;
+
+&lt;h4 id=&quot;adding-contrast-by-dimming-the-background&quot;&gt;Adding contrast by &lt;em&gt;dimming&lt;/em&gt; the background&lt;/h4&gt;
+&lt;p&gt;We often use a semi-transparent layer with a cutout to highlight the feature we are talking about. In Snagit it is time-consuming to achieve the effect because I don’t have layers to play with.&lt;/p&gt;
+
+&lt;p&gt;What I did was create four semi-transparent black boxes around the Insert Function button. You could also put the grey shape over the whole window and then paste the button on top, now that I think of it. That would probably be even easier.&lt;/p&gt;
+
+&lt;p&gt;I like the effect but I think the screen shot would be easier to understand if it was cropped.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/images/darkbackground.png&quot; alt=&quot;Dim the background, put a spotlight on the feature&quot; /&gt;&lt;/p&gt;
+
+&lt;h5 id=&quot;simplified-ui&quot;&gt;Simplified UI&lt;/h5&gt;
+&lt;p&gt;After I tried my hand at a simplified UI. It’s a pretty trendy way to get rid of details in online help topics and on websites. Facebook and Twitter use it when they are loading.&lt;/p&gt;
+
+&lt;p&gt;It took a long time to cover all the details with boxes and even longer to decide on colours. I don’t even think I chose the right ones.&lt;/p&gt;
+
+&lt;p&gt;It turned into a longish design exercise and the end result is wonky.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/images/simplifiedUI.png&quot; alt=&quot;Simplified UI: Text and icons are masked with boxes&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;follow-my-gut-cut-cut-cut&quot;&gt;Follow my gut, cut, cut, cut&lt;/h4&gt;
+&lt;p&gt;Finally, I just followed my gut and cut out pieces that I found distracting, for example surrounding buttons.&lt;/p&gt;
+
+&lt;p&gt;If I was to do it again, I would definitely get rid of that highlighted box, it’s driving me nuts!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/images/myversion.png&quot; alt=&quot;Cut out a lot of the text but left menu, cropped&quot; /&gt;&lt;/p&gt;</content><author><name>Jessica Grosman</name></author><summary type="html">An experiement: 1) Take a screen shot of a cluttered UI; 2) do minimal edits; 3) make it easy for a user to quickly find the discussed feature</summary></entry><entry><title type="html">Cyber Security Awareness Training: Passwords</title><link href="http://localhost:4000/blog/storyline/challenge-passwords/" rel="alternate" type="text/html" title="Cyber Security Awareness Training: Passwords" /><published>2019-02-24T00:00:00-04:00</published><updated>2019-02-24T00:00:00-04:00</updated><id>http://localhost:4000/blog/storyline/challenge-passwords</id><content type="html" xml:base="http://localhost:4000/blog/storyline/challenge-passwords/">&lt;p&gt;I made a learning activity about choosing strong, complex passwords at work. It’s part of an &lt;strong&gt;E-learning Heroes’ challenge&lt;/strong&gt; about web objects. I used the web objects to include activities that give feedback about password choices. I had a bit of trouble technically but learned new things about iframes. Read on to see my process I used and a bit of troubleshooting.&lt;/p&gt;
+
+&lt;p&gt;Or check out the project: &lt;a href=&quot;http://jessicagrosman.ca/passwords101/story_html5.html&quot;&gt;Get control over your passwords&lt;/a&gt;.
+&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;context&quot;&gt;Context&lt;/h2&gt;
+&lt;p&gt;The reality is bad passwords let bad people do bad things: steal your identity, break into company’s infrastructure, etc.&lt;/p&gt;
+
+&lt;p&gt;Cyber Security Awareness Training still covers passwords because people still choose bad passwords.&lt;/p&gt;
+
+&lt;p&gt;A coworker had always told me she had a password that was hard to guess. She was sure of it. One day she went home without an important file and I had to log in to her computer. Her password was &lt;em&gt;BOYFRIENDSNAME123.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;I was gobsmacked.&lt;/p&gt;
+
+&lt;p&gt;Password training is difficult because we are talking about preventative measures and  changing habits. And really who likes passwords anyways?&lt;/p&gt;
+
+&lt;p&gt;Most training gives information about password strength and complexity: guidelines and things to avoid. But information alone rarely changes behaviour.&lt;/p&gt;
+
+&lt;p&gt;I have thought that interactions focused on increasing feedback could help change password choosing behaviour and habits.&lt;/p&gt;
+
+&lt;p&gt;I had two idea to include:&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;Password strength analyzer&lt;/li&gt;
+  &lt;li&gt;Pwned Password.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;To really solidify good password making habits, I think we would need to look at how to roll out password managers and help people book time to set them up.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;(If only they would actually listen to us about password managers! They really do make using the internet less frustrating!)&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;password-strength-analyzer&quot;&gt;Password Strength Analyzer&lt;/h3&gt;
+
+&lt;p&gt;I noticed during a company wide password manager implementation that people pay  some attention to password strength meters. Participants let out satisfied exclamations when their passwords were evaluated as strong.&lt;/p&gt;
+
+&lt;p&gt;There is some debate around password strength analyzers. Security experts argue they  do not accurately calculate complexity.&lt;/p&gt;
+
+&lt;p&gt;For example, an analyzer might evaluate that &lt;em&gt;Passw0rd&lt;/em&gt; is stronger than &lt;em&gt;bananacowgrease&lt;/em&gt; because it includes a number and a capital letter.&lt;/p&gt;
+
+&lt;p&gt;But the reality it is actually probably easier to crack &lt;em&gt;Passw0rd&lt;/em&gt; than bananacowgrease because it uses a common password and a common way to incorporate capitals and special characters.&lt;/p&gt;
+
+&lt;p&gt;For technical reasons I couldn’t use an analyzer that displayed password entropy, an estimate about how long the password would take to crack. That was the feedback I really wanted, e.g. &lt;em&gt;Your password would take 5 minutes to crack.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;At least the one I found had a simple UI, the right tone and gave feedback about popular choices. I would love if the password analyzer evaluated people’s passwords based on the points on the &lt;em&gt;Dos and Don’ts slides&lt;/em&gt;, then I wouldn’t even need to include them!&lt;/p&gt;
+
+&lt;h3 id=&quot;pwned-passwords&quot;&gt;Pwned passwords&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://haveibeenpwned.com/Passwords&quot;&gt;Pwned Passwords&lt;/a&gt; is a project Troy Hunt, a security expert, who started &lt;strong&gt;Have I been Pwned?&lt;/strong&gt; and &lt;strong&gt;Pwned Passwords&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Hunt collects information (hacked emails and passwords) from data breaches once they have now been made public. I thought the emotional resonance of realizing your password has been part of a data breach might help some people pay attention to the advice about choosing complex passwords and using a password manager.&lt;/p&gt;
+
+&lt;p&gt;Many applications use the &lt;strong&gt;Pwned Password API&lt;/strong&gt; to warn their users that their password is a bad choice.&lt;/p&gt;
+
+&lt;p&gt;A consideration with this type of activity is how safe it is to send your password to the 3rd party application. I am familiar with &lt;strong&gt;Pwned Passwords&lt;/strong&gt; and don’t have much worry about that. I kept the analyzer as is for this demo, but I would use a different one if this project goes further.&lt;/p&gt;
+
+&lt;h2 id=&quot;planning&quot;&gt;Planning&lt;/h2&gt;
+
+&lt;p&gt;With the above context swirling in my head for some time, I started the text-based story boards to plan the content. I like storyboards because it makes the actual development quicker. Check out &lt;a href=&quot;/blog/assets/pdf/password_storyboard.pdf&quot;&gt;the storyboard pdf&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I also researched tabbed outlines and decided to go with one similar to &lt;a href=&quot;https://www.youtube.com/watch?v=dI0Yy1d1Fb8&quot;&gt;a Storyline Demo&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;development&quot;&gt;Development&lt;/h2&gt;
+
+&lt;p&gt;I got hung up on some UX design this time.&lt;/p&gt;
+
+&lt;p&gt;The tabs or buttons were hard to get just right (they are still not there 100%). I especially had trouble with colours choices for different states etc. I spent a lot of time fiddling around in Storyline and using the format painter.&lt;/p&gt;
+
+&lt;p&gt;It’s stressful to play with the UI at a point when the course was already half created. There is just so much going on: layers, triggers, objects, etc.&lt;/p&gt;
+
+&lt;p&gt;I think I am going to spend a little more time working on templating the design before I dive in. I just downloaded &lt;strong&gt;Adobe Xd&lt;/strong&gt; to try out.&lt;/p&gt;
+
+&lt;h3 id=&quot;articulate-storyline---web-objects&quot;&gt;Articulate Storyline - Web Objects&lt;/h3&gt;
+
+&lt;p&gt;Pwned Passwords and the analyzer are included in the training through Web Objects.&lt;/p&gt;
+
+&lt;p&gt;I am not a huge fan of this feature for public websites, but I tried it for an &lt;a href=&quot;https://community.articulate.com/articles/using-web-objects-for-performance-support-in-e-learning&quot;&gt;E-Learning Heroes challenge&lt;/a&gt;. My main frustration was with how web content is displayed.&lt;/p&gt;
+
+&lt;p&gt;When I tested the links I wanted to use, 99% of the time Storyline warned me that the content had to be opened in a new browser window.&lt;/p&gt;
+
+&lt;p&gt;If you open the content in a new browser window it is essentially the same as a hyperlink with &lt;em&gt;target=”_blank”&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;I really didn’t want to include content in new browser windows.&lt;/p&gt;
+
+&lt;h4 id=&quot;the-benefits-of-using-a-new-browser-window-are-few&quot;&gt;The benefits of using a new browser window are few:&lt;/h4&gt;
+
+&lt;p&gt;✔ The learner can consult the document and not lose their place in the activity.&lt;/p&gt;
+
+&lt;p&gt;✖ The pop-up window might cause problems with the LMS.&lt;/p&gt;
+
+&lt;p&gt;✖ The design is not as elegant.&lt;/p&gt;
+
+&lt;p&gt;✖ The learner is – at least momentarily – leaving the world you have created.&lt;/p&gt;
+
+&lt;h4 id=&quot;troubleshooting-why-your-content-wont-load-in-the-web-object&quot;&gt;Troubleshooting why your content won’t load in the web object&lt;/h4&gt;
+&lt;p&gt;Many websites block the public from using their content in an iframe for &lt;a href=&quot;https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/X-Frame-Options&quot;&gt;security reasons&lt;/a&gt;. You can check if a site will let you insert the page into a web object in Storyline by inspecting the page with Developer Tools in Google Chrome.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;To open Developer Tools, press CTRL + SHIFT + I.&lt;/li&gt;
+  &lt;li&gt;Click &lt;strong&gt;Network&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;Enter “x-frame” in the &lt;strong&gt;Filter&lt;/strong&gt; box.&lt;/li&gt;
+  &lt;li&gt;If &lt;strong&gt;x-frame&lt;/strong&gt; is set to Deny, the content will not load directly on the slide.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;In the end, making custom html pages and hosting them on our own server seems like the best option for web objects.&lt;/p&gt;</content><author><name>Jessica Grosman</name></author><summary type="html">I made a learning activity about choosing strong, complex passwords at work. It’s part of an E-learning Heroes’ challenge about web objects. I used the web objects to include activities that give feedback about password choices. I had a bit of trouble technically but learned new things about iframes. Read on to see my process I used and a bit of troubleshooting. Or check out the project: Get control over your passwords.</summary></entry><entry><title type="html">Storyline Challenge: MadLibs - Computer Security</title><link href="http://localhost:4000/blog/storyline/challenge-madlibs-lock-pc/" rel="alternate" type="text/html" title="Storyline Challenge: MadLibs - Computer Security" /><published>2019-02-09T00:00:00-04:00</published><updated>2019-02-09T00:00:00-04:00</updated><id>http://localhost:4000/blog/storyline/challenge-madlibs-lock-pc</id><content type="html" xml:base="http://localhost:4000/blog/storyline/challenge-madlibs-lock-pc/">&lt;h3 id=&quot;madlibs-challenge&quot;&gt;Madlibs Challenge&lt;/h3&gt;
+&lt;p&gt;Over at E-Learning Heroes they had &lt;a href=&quot;https://community.articulate.com/articles/using-mad-libs-to-create-elearning-word-games?page=1&quot;&gt;a challenge to use Madlibs&lt;/a&gt; in an elearning activity. I immediately had a flash when I saw the challenge. I could use it to make a funny little activity about leaving your computer unlocked at work.&lt;/p&gt;
+
+&lt;h3 id=&quot;see-the-whole-project-here&quot;&gt;See the whole project &lt;a href=&quot;http://jessicagrosman.ca/lock/story_html5.html&quot;&gt;here&lt;/a&gt;.&lt;/h3&gt;
+
+&lt;p&gt;With the original Madlibs, players choose different word types (e.g. adjective, animal) and insert them into sentences without knowing the larger context. Mine would make an amusing (I hope!) story about what happens when you leave your computer unlocked.&lt;/p&gt;
+
+&lt;h3 id=&quot;security-101&quot;&gt;Security 101&lt;/h3&gt;
+&lt;p&gt;Locking your screen when you step away from your desk is cybersecurity 101. It might be a low hanging fruit in the security world but it turns up again and again at training.&lt;/p&gt;
+
+&lt;h4 id=&quot;most-training-includes&quot;&gt;Most training includes:&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;instructions and regulations not to leave computers unlocked&lt;/li&gt;
+  &lt;li&gt;spot the mistake activities&lt;/li&gt;
+  &lt;li&gt;verbal reminders at meetings&lt;/li&gt;
+  &lt;li&gt;officially sanctioned or vigilante penalties to offenders&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The &lt;strong&gt;instructions and regulations&lt;/strong&gt; might work with employees who don’t like to break rules. Most people seem to zone out and go &lt;em&gt;“straightforward I know how to do that.”&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;The &lt;strong&gt;spot the mistake activities&lt;/strong&gt; might help people notice when they are in the wrong.&lt;/p&gt;
+
+&lt;p&gt;The &lt;strong&gt;verbal reminders&lt;/strong&gt;, well people are forgetting to do it. Maybe it helps form the habit?&lt;/p&gt;
+
+&lt;p&gt;The &lt;strong&gt;embarrassing penalties&lt;/strong&gt; meted out by colleagues? Let’s say posting embarrassing status updates or changing their wallpaper or buying the team donuts. &lt;a href=&quot;https://www.troyhunt.com/40-inappropriate-actions-to-take/&quot;&gt;It’s popular and social pressure works&lt;/a&gt;, sometimes. But there is also backlash–some employees are demotivated by these antics because they find them cruel and unfair.&lt;/p&gt;
+
+&lt;h3 id=&quot;office-antics---lock-your-computer-elearning-activity&quot;&gt;Office Antics - Lock your computer elearning activity&lt;/h3&gt;
+&lt;p&gt;This activity falls into the reminder category. It uses humour and the threat of embarrassment to make a point. Hopefully people can connect the dots.&lt;/p&gt;
+
+&lt;p&gt;The first slide invites the learner to fill in the blanks and learn about some office antics.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/images/lockscreen1.PNG&quot; alt=&quot;The First Slide prompts for words and hopefully piques curiosity&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;In the second slide it’s revealed the person left their computer unlocked and the words they just filled in describe their new computer wallpaper.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/images/lockscreen2.PNG&quot; alt=&quot;The second slide has the punch (your colleagues are probably more creative) and the reminder&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;There is also some info about keyboard shortcuts (i.e. a faster way to lock their screen). I didn’t start with the information because I don’t think the actual issue is a knowledge or skills gap. Instead I wanted to focus on creating interest through creativity and humour. It’s a way to help people remember what they are supposed to do.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/images/screenlock_shortcuts.PNG&quot; alt=&quot;Know your keyboard shortcuts: Win+L or CTRL+CMD+Q&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;If I took this further I would find some info about what type of bad things have actually happened from unlocked computers and find a way for people to share their creativity with others, maybe through Slack or other corporate instant messaging.&lt;/p&gt;
+
+&lt;h4 id=&quot;edit-14022018&quot;&gt;EDIT (14/02/2018):&lt;/h4&gt;
+&lt;p&gt;I tested the game out on a couple people. I was reminded that not everyone fills in forms entirely! So the person who skipped fields was confronted with a confusing story with a bunch of blanks.&lt;/p&gt;
+
+&lt;p&gt;I originally thought I would make the text fields required with some conditionals. Then I thought &lt;em&gt;locked down Submit buttons&lt;/em&gt; and &lt;em&gt;All fields are required pop-ups&lt;/em&gt; are demotivating. That wasn’t the point of this exercise–it’s supposed to be fun!&lt;/p&gt;
+
+&lt;p&gt;Instead I decided that if people left input blank I would supply the answers. This way they would see the point and hopefully go back and try themselves. Plus the catch (your colleagues are probably more creative) is amply true in this case.&lt;/p&gt;
+
+&lt;p&gt;It took a little bit of experimenting to be able to supply my own answers if someone didn’t fill out the input fields. The way I got it to work was to a trigger on each data entry field. This trigger adjusts the variable to my word choice provided the person left the field blank.&lt;/p&gt;
+
+&lt;h4 id=&quot;how-to-set-up-the-trigger&quot;&gt;How to set up the trigger&lt;/h4&gt;
+
+&lt;p&gt;&lt;strong&gt;Action&lt;/strong&gt;: &lt;strong&gt;adjust variable to&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Value&lt;/strong&gt;: the word you suggest&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Condition: if &amp;lt;%variable%&amp;gt; == to [blank].&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/images/trigger_changevariable.PNG&quot; alt=&quot;An example of the trigger I made to fill in blanks for learners&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I chose to make the change when the person clicked &lt;strong&gt;Submit&lt;/strong&gt;. So I had 7 triggers associated with the &lt;strong&gt;Submit&lt;/strong&gt; button: 6 triggers to fill in input left blank and one that jumps to the next slide. It is critical to put the 6 triggers before the trigger that jumps to the next slide. Other wise it won’t work.&lt;/p&gt;
+
+&lt;h3 id=&quot;see-the-whole-project-here-1&quot;&gt;See the whole project &lt;a href=&quot;http://jessicagrosman.ca/lock/story_html5.html&quot;&gt;here&lt;/a&gt;.&lt;/h3&gt;</content><author><name>Jessica Grosman</name></author><summary type="html">Madlibs Challenge Over at E-Learning Heroes they had a challenge to use Madlibs in an elearning activity. I immediately had a flash when I saw the challenge. I could use it to make a funny little activity about leaving your computer unlocked at work.</summary></entry><entry><title type="html">The Art of the Start in Documentation and Demos</title><link href="http://localhost:4000/blog/reflections/start-doc-demo/" rel="alternate" type="text/html" title="The Art of the Start in Documentation and Demos" /><published>2019-01-20T00:00:00-04:00</published><updated>2019-01-20T00:00:00-04:00</updated><id>http://localhost:4000/blog/reflections/start-doc-demo</id><content type="html" xml:base="http://localhost:4000/blog/reflections/start-doc-demo/">&lt;p&gt;Two mistakes about how to start software documentation and demos, dissected.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;h2 id=&quot;documentation&quot;&gt;Documentation&lt;/h2&gt;
+
+&lt;p&gt;I was checking a knowledgebase article this week. I skimmed the instructions. It all seemed straightforward, I thought. The instructions were detailed, step-by-step, with screenshots.&lt;/p&gt;
+
+&lt;p&gt;Then I sat down, getting ready to follow the procedure. I saw the first screen, I recognized the first screen. I know I had seen it before. But where?&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The step-by-step procedure was missing the first step.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I spent the next 5 to 10 minutes trying to click the write button to open the dialog window that I saw in the online help.&lt;/p&gt;
+
+&lt;h4 id=&quot;take-away&quot;&gt;Take-away&lt;/h4&gt;
+&lt;p&gt;When we write documentation we are often trying to help people locate an option. Make sure the entry point is clearly sign-posted.&lt;/p&gt;
+
+&lt;h2 id=&quot;demos&quot;&gt;Demos&lt;/h2&gt;
+&lt;p&gt;I was giving a demo of a web application to an end-user who is not particularly tech savvy. This type of demo is outside my usual target audience. When I changed my presentation style I was careful to remove the tech jargon and come up with analogies to link to previous knowledge. I had paid siginification attention to flow and potential cognitive overload.&lt;/p&gt;
+
+&lt;p&gt;But we got stalled before we even got going.&lt;/p&gt;
+
+&lt;p&gt;The product I was demoing, a web application, runs in a browser. The person watching the demo couldn’t see it as a specific product, not in the same way someone more versed in web apps would see it. I had been focused on how it integrates with browsers and simplifies internet usage. But perhaps I had done that too well. The person couldn’t see the web app as something the company had done.&lt;/p&gt;
+
+&lt;p&gt;It was easily fixed. When I opened the web page again I literally took 15 seconds to say. This is the product, this is the interface, this is the browser extension. Don’t they all look similar?&lt;/p&gt;
+
+&lt;p&gt;Now the person saw it as a product.&lt;/p&gt;
+
+&lt;h4 id=&quot;take-away-1&quot;&gt;Take-away&lt;/h4&gt;
+&lt;p&gt;As we talk to people with fewer skills or less experience make sure to state the obvious at the beginning so they can enter the product with you. When we train on a software we are entering a virtual landscape.&lt;/p&gt;
+
+&lt;p&gt;It’s a training landscape where we trainers are guides familiar with the terrain. But if people have never seen this type of software before we need to treat it like a hotel we just checked into. The learners want to get a lay of the land first. They want to orientate themselves and explicitly name different aspects of the environment.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Oh there’s the pool. The restaurant bar is down that hallway.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;how-the-idea-of-the-start-can-be-used-in-training&quot;&gt;How the idea of the start can be used in training&lt;/h3&gt;
+&lt;p&gt;Scaffolding is when the trainer helps the learner achieve more than they could do alone by providing support. For online courses and documentation, the right amount of scaffolding might be the first step: showing people where to start.&lt;/p&gt;</content><author><name>Jessica Grosman</name></author><summary type="html">Two mistakes about how to start software documentation and demos, dissected.</summary></entry><entry><title type="html">Resume assistant: good JIT example</title><link href="http://localhost:4000/blog/examples/resume-assistant/" rel="alternate" type="text/html" title="Resume assistant: good JIT example" /><published>2019-01-04T00:00:00-04:00</published><updated>2019-01-04T00:00:00-04:00</updated><id>http://localhost:4000/blog/examples/resume-assistant</id><content type="html" xml:base="http://localhost:4000/blog/examples/resume-assistant/">&lt;p&gt;I came across the Resume Assistant in Microsoft Word and LinkedIn. I thought it was a great example of Just-in-time training. Before we get into it, I want to talk about just-in-time training–it’s on my mind a lot lately.&lt;/p&gt;
 
 &lt;p&gt;Oh and don’t worry the assistant is nothing like &lt;a href=&quot;https://www.artsy.net/article/artsy-editorial-life-death-microsoft-clippy-paper-clip-loved-hate&quot;&gt;Clippy&lt;/a&gt;.
 &lt;!--more--&gt;&lt;/p&gt;
@@ -34,11 +446,11 @@
 
 &lt;p&gt;The resume assistant loads as a side bar when you work on a resume.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/resumeassistant.png&quot; alt=&quot;Resume Assistant Screenshot&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/blog/assets/images/resumeassistant.png&quot; alt=&quot;Resume Assistant Sidebar in Word&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;The assistant asks for your job title and the industry you work in. Then it searches LinkedIn public profiles for examples.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/resumedetail.png&quot; alt=&quot;Top Skills Search&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/blog/assets/images/resumedetail.PNG&quot; alt=&quot;Resume Assistant Details&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;It provides authentic examples of how people presented specific aspects of their experience, just when you need it.&lt;/p&gt;
 
@@ -48,7 +460,7 @@
 
 &lt;p&gt;The top skills are helpful to make sure you are using the right key words.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/topskills.png&quot; alt=&quot;Top Skills Search&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/blog/assets/images/topskills.png&quot; alt=&quot;Top Skills Search&quot; /&gt;&lt;/p&gt;
 
 &lt;h4 id=&quot;what-is-the-resume-assistant-missing&quot;&gt;What is the resume assistant missing?&lt;/h4&gt;
 
@@ -61,7 +473,7 @@
 &lt;p&gt;Do the top skills overlap with keywords that resume scanners look for?&lt;/p&gt;
 
 &lt;h4 id=&quot;another-place-i-would-love-to-see-this-tool&quot;&gt;Another place I would love to see this tool:&lt;/h4&gt;
-&lt;p&gt;People are often stumped by annual performance reviews. I would love to see what other people write, so I could write my own better. Of course, the logistics and ethics of this idea are not as obvious as the resume example.&lt;/p&gt;</content><author><name>Jessica Grosman</name></author><summary type="html">I came across the Resume Assistant in Microsoft Word and LinkedIn. I thought it was a great example of Just-in-time training. Before we get into it, I want to talk about just-in-time training–it’s on my mind a lot lately. Oh and don’t worry the assistant is nothing like Clippy.</summary></entry><entry><title type="html">No Evaulation? Possible side effects include</title><link href="/reflections/no-evaluation-side-effects/" rel="alternate" type="text/html" title="No Evaulation? Possible side effects include" /><published>2019-01-03T00:00:00+00:00</published><updated>2019-01-03T00:00:00+00:00</updated><id>/reflections/no-evaluation-side-effects</id><content type="html" xml:base="/reflections/no-evaluation-side-effects/">&lt;h3 id=&quot;how-do-you-measure-training-effectiveness&quot;&gt;How do you measure training effectiveness?&lt;/h3&gt;
+&lt;p&gt;People are often stumped by annual performance reviews. I would love to see what other people write, so I could write my own better. Of course, the logistics and ethics of this idea are not as obvious as the resume example.&lt;/p&gt;</content><author><name>Jessica Grosman</name></author><summary type="html">I came across the Resume Assistant in Microsoft Word and LinkedIn. I thought it was a great example of Just-in-time training. Before we get into it, I want to talk about just-in-time training–it’s on my mind a lot lately. Oh and don’t worry the assistant is nothing like Clippy.</summary></entry><entry><title type="html">No Evaulation? Possible side effects include</title><link href="http://localhost:4000/blog/reflections/no-evaluation-side-effects/" rel="alternate" type="text/html" title="No Evaulation? Possible side effects include" /><published>2019-01-03T00:00:00-04:00</published><updated>2019-01-03T00:00:00-04:00</updated><id>http://localhost:4000/blog/reflections/no-evaluation-side-effects</id><content type="html" xml:base="http://localhost:4000/blog/reflections/no-evaluation-side-effects/">&lt;h3 id=&quot;how-do-you-measure-training-effectiveness&quot;&gt;How do you measure training effectiveness?&lt;/h3&gt;
 
 &lt;p&gt;Many projects are evaluated by two things:&lt;/p&gt;
 
@@ -114,7 +526,7 @@
 
 &lt;p&gt;And back to how evaluation integrates us into the organization”&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;If we don’t track results, one day it becomes harder to argue for a changed methodology, or to sit in on the new product management meetings, or to ask for a conference ticket or a new tool, perhaps even good budget.&lt;/strong&gt;&lt;/p&gt;</content><author><name>Jessica Grosman</name></author><summary type="html">How do you measure training effectiveness? Many projects are evaluated by two things:</summary></entry><entry><title type="html">They just need to be aware of it</title><link href="/reflections/be-aware-of-it/" rel="alternate" type="text/html" title="They just need to be aware of it" /><published>2019-01-02T00:00:00+00:00</published><updated>2019-01-02T00:00:00+00:00</updated><id>/reflections/be-aware-of-it</id><content type="html" xml:base="/reflections/be-aware-of-it/">&lt;p&gt;I am always looking for ways to improve the eLearning courses I create. My main concern at the moment is creating solid courses that help my colleagues work more efficiently and effectively.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;If we don’t track results, one day it becomes harder to argue for a changed methodology, or to sit in on the new product management meetings, or to ask for a conference ticket or a new tool, perhaps even good budget.&lt;/strong&gt;&lt;/p&gt;</content><author><name>Jessica Grosman</name></author><summary type="html">How do you measure training effectiveness? Many projects are evaluated by two things:</summary></entry><entry><title type="html">They just need to be aware of it</title><link href="http://localhost:4000/blog/reflections/be-aware-of-it/" rel="alternate" type="text/html" title="They just need to be aware of it" /><published>2019-01-02T00:00:00-04:00</published><updated>2019-01-02T00:00:00-04:00</updated><id>http://localhost:4000/blog/reflections/be-aware-of-it</id><content type="html" xml:base="http://localhost:4000/blog/reflections/be-aware-of-it/">&lt;p&gt;I am always looking for ways to improve the eLearning courses I create. My main concern at the moment is creating solid courses that help my colleagues work more efficiently and effectively.&lt;/p&gt;
 
 &lt;h3 id=&quot;this-starts-with-goals&quot;&gt;This starts with goals.&lt;/h3&gt;
 
