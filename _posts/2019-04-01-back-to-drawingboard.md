@@ -1,5 +1,5 @@
 ---
-Title: Going back to the drawing board feels so good
+Title: "Why going back to the drawing board feels so good"
 categories: storyline
 excerpt: "Revisiting projects gives hands-on practice on what iterative development could look like. The project seemed to breathe on it's own."
 ---
@@ -29,6 +29,10 @@ The changes let me see the design and space in the slide in ways I was blind to 
 
 - I was asking the user to fill out way too much information. I cut some out.
 - I played with how few instructions I could put on the slide. We put instructions out of habit or sometimes as a band-aid for half-thought out ideas. But apps and online services are moving away from on-screen instructions. I want to push my elearning that way too.
+
+I love personal projects because you often have more time to contemplate. When I live with a project for weeks and months, new ideas just bubble up. Now just to recreate that magic in a corporate timeframe. :)
+
+But seriously the skills do transfer. I've learned new things by tinkering. I've practised editing. That practice transfers.
 
 ### Feedback and Change in Elearning Development
 
