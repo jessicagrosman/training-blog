@@ -6,7 +6,11 @@ excerpt: "Revisiting projects gives hands-on practice on what iterative developm
 
 I completed an [Elearning Heroes Elearning Challenge to use gifs](https://community.articulate.com/articles/using-animated-gifs-in-elearning). I reused my example from the week before. So now I have a snazzy mad libs style cybersecurity activity with gifs!
 
-![//Office Antics Version 2 (/blog/assets/gifs/officeantics.gif)](http://jessicagrosman.ca/lock-your-pc/story_html5.html)
+<p>
+  <a href=“http://jessicagrosman.ca/lock-your-pc/story_html5.html”>
+    <img src=“https://github.com/jessicagrosman/blog/blob/gh-pages/assets/gifs/officeantics.gif” alt=“Demo of Office Antics Cybersecurity Madlibs Activity” />
+  </a>
+</p>
 
 Was I lazy?
 
