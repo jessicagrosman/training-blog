@@ -1,5 +1,5 @@
 ---
-Title: "Why going back to the drawing board feels so good"
+title: "Why going back to the drawing board feels so good"
 categories: storyline
 excerpt: "Revisiting projects gives hands-on practice on what iterative development could look like. The project seemed to breathe on it's own."
 ---
