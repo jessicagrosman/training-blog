@@ -6,11 +6,12 @@ excerpt: "Revisiting projects gives hands-on practice on what iterative developm
 
 I completed an [Elearning Heroes Elearning Challenge to use gifs](https://community.articulate.com/articles/using-animated-gifs-in-elearning). I reused my example from the week before. So now I have a snazzy mad libs style cybersecurity activity with gifs!
 
-<p>
-  <a href=“http://jessicagrosman.ca/lock-your-pc/story_html5.html”>
-    <img src=“https://github.com/jessicagrosman/blog/blob/gh-pages/assets/gifs/officeantics.gif” alt=“Demo of Office Antics Cybersecurity Madlibs Activity” />
-  </a>
-</p>
+This project is a fun activity to help remind, practice and create a security culture at company. It would be part of a campaign about locking a computer when your leave your desk. [Read more about the ideas behind the storyline activity in an earlier post.](https://jessicagrosman.github.io/blog/storyline/challenge-passwords/)
+
+![Demo of Cybersecurity Awareness Madlibs Activity](https://github.com/jessicagrosman/blog/blob/gh-pages/assets/gifs/officeantics.gif)
+
+[Try Office Antics](http://jessicagrosman.ca/lock-your-pc/story_html5.html)
+
 
 Was I lazy?
 
@@ -39,7 +40,15 @@ I am usually open to changes and feedback during projects. Playing like this giv
 
 In the first version it was what can I do to make this work. I think this is what lean practitioners would call a minimally viable product. Then this second example takes it further.
 
-[Check out version 2.](http://jessicagrosman.ca/lock-your-pc/story_html5.html) [Check out version 1.](http://jessicagrosman.ca/lock/story_html5.html)
+
+![Version 1 of Activity Screen Shot](/blog/assets/images/officeantics1.png)
+
+[Check out version 1.](http://jessicagrosman.ca/lock/story_html5.html)
+
+![Version 2 of Activity Screen Shot](/blog/assets/images/officeantics2.png)
+
+[Check out version 2](http://jessicagrosman.ca/lock-your-pc/story_html5.html)
+
 
 **Honestly, I had more fun editing than I did creating.**
 
