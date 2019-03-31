@@ -8,7 +8,7 @@ I completed an [Elearning Heroes Elearning Challenge to use gifs](https://commun
 
 This project is a fun activity to help remind, practice and create a security culture at company. It would be part of a campaign about locking a computer when your leave your desk. [Read more about the ideas behind the storyline activity in an earlier post.](https://jessicagrosman.github.io/blog/storyline/challenge-passwords/)
 
-![Demo of Cybersecurity Awareness Madlibs Activity](https://github.com/jessicagrosman/blog/blob/gh-pages/assets/gifs/officeantics.gif)
+![Demo of Cybersecurity Awareness Madlibs Activity](/blog/assets/gifs/officeantics.gif)
 
 [Try Office Antics](http://jessicagrosman.ca/lock-your-pc/story_html5.html)
 
