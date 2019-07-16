@@ -9,15 +9,15 @@ excerpt: "Playing with ways to make step-by-steps procedures visually appealing 
 I made a 3 step graphic about how computers open a connection over a network. 
 
 ![Screenshot from 3 Way Handshake learning activity](/blog/assets/images/handshake_stepper.png)<br>
-###[Explore the 3 Way Handshake](http://jessicagrosman.ca/3-way-handshake/story_html5.html)
+### [Explore the 3 Way Handshake](http://jessicagrosman.ca/3-way-handshake/story_html5.html)
 
 The steps are presented as a mini-animation. The actual data transmission is abstracted. I wanted to see if there was a way to show the transfer of data without resorting to the usual _Visio-esque_ diagrams. Are you able to imagine how the data is  transmitted without computer and fibre optic network icons?
 
 As the challenge was about visualization, I decided to focus on another design experiments.
 
-###Make the slide area feel bigger
+### Make the slide area feel bigger
 
-####Card design
+#### Card design
 I tried two different layouts to play with making the slides feel bigger letting the learner have more room to breathe. 
 
 ![Screenshot from 3 Way Handshake learning activity](/blog/assets/images/cards_l_r.png)<br>
@@ -28,7 +28,7 @@ I was inspired by [Mel Milloway's card design](https://www.linkedin.com/pulse/de
 
 I also tried making a stack of cards. This is inspired by [Google Primer](https://medium.com/google-design/designing-a-ux-for-learning-ebed4fa0a798). I wish I knew how to put a trigger to let users swipe to get rid of a card! Maybe a future project. Mark it _**to do**_
 
-####Change the background of the player
+#### Change the background of the player
 In Storyline, the slide background and the player background colors are often different. This cuts down on the feeling of space. It puts a border around the slide and we never get a full screen feeling.
 
 In this project [I changed the background color of the Modern Player](https://community.articulate.com/discussions/articulate-storyline/can-we-change-background-color-in-modern-player-storyline-360) to match the slide background color.
